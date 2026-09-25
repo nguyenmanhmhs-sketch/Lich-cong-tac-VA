@@ -1,25 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Trường Trung Tiểu Học Việt Anh//Kế Hoạch Chuỗi & Định Kỳ Tu 20/09/2026 v18//VI
+PRODID:-//Trường Trung Tiểu Học Việt Anh//Lịch Sự Kiện Dài Kỳ//VI
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Kế Hoạch Chuỗi & Định Kỳ (Từ 20/09/2026)
+X-WR-CALNAME:Lịch Dài Kỳ
 X-WR-TIMEZONE:Asia/Ho_Chi_Minh
 BEGIN:VEVENT
-UID:hsg_tieng_hoa_b5_20260921@vietanhschool.edu.vn
-DTSTAMP:20260919T040210Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260921T150000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260921T170000
-SUMMARY:Ôn Thi HSG Thành Phố - Môn Tiếng Hoa (Buổi 5 - Tổng Kết)
-LOCATION:Phòng E205 - Tòa nhà EMC
-DESCRIPTION:Phụ trách: Thầy Võ Trường Giang\nĐối tượng: Đội tuyển HSG Tiếng Hoa rà soát kiến thức lần cuối trước ngày thi 23-24/09\nNguồn: KH 297/KH-VA3 (https://drive.google.com/file/d/165_gbAO3Se7jCo7O6RiIayqMOMXXN5yt/view?usp=drivesdk)
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:series_chao_co_t2_from2009_v18@vietanhschool.edu.vn
-DTSTAMP:20260919T040210Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260921T071500
-DTEND;TZID=Asia/Ho_Chi_Minh:20260921T080000
+UID:series_chao_co_t2_from2609@vietanhschool.edu.vn
+DTSTAMP:20260925T062518Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260928T071500
+DTEND;TZID=Asia/Ho_Chi_Minh:20260928T080000
 RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20270215T235959Z
 SUMMARY:Thông Điệp Đầu Tuần (Chào Cờ Toàn Trường)
 LOCATION:Sân trường VA1 & VA3
@@ -27,10 +17,10 @@ DESCRIPTION:Phụ trách: Cô Đinh Thị Ngọc (Hiệu trưởng)\nĐối tư�
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:series_handicrafts_break_th_va3_v18@vietanhschool.edu.vn
-DTSTAMP:20260919T040210Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260921T095000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260921T101000
+UID:series_handicrafts_break_th_va3_v20@vietanhschool.edu.vn
+DTSTAMP:20260925T062518Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260928T095000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260928T101000
 RRULE:FREQ=WEEKLY;BYDAY=MO,WE;UNTIL=20261130T235959Z
 SUMMARY:Handicrafts Break - 20 Phút Bình Yên (Tiểu Học VA3)
 LOCATION:Phòng Handicrafts - Trường Việt Anh 3
@@ -38,10 +28,10 @@ DESCRIPTION:Phụ trách: Tổ Kỹ năng sống & GV hướng dẫn\nĐối tư
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:series_handicrafts_break_trunghoc_va3_v18@vietanhschool.edu.vn
-DTSTAMP:20260919T040210Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260922T095000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260922T101000
+UID:series_handicrafts_break_trunghoc_va3_v20@vietanhschool.edu.vn
+DTSTAMP:20260925T062518Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260929T095000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260929T101000
 RRULE:FREQ=WEEKLY;BYDAY=TU,TH;UNTIL=20261130T235959Z
 SUMMARY:Handicrafts Break - 20 Phút Bình Yên (Trung Học VA3)
 LOCATION:Phòng Handicrafts - Trường Việt Anh 3
@@ -49,31 +39,10 @@ DESCRIPTION:Phụ trách: Tổ Kỹ năng sống & GV hướng dẫn\nĐối tư
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:series_luyen_tap_trung_thu_ptdm_v18@vietanhschool.edu.vn
-DTSTAMP:20260919T040210Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260921T150000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260921T163000
-RRULE:FREQ=WEEKLY;BYDAY=MO,WE;UNTIL=20260922T235959Z
-SUMMARY:Luyện Tập Tham Gia Hội Thi Tết Trung Thu Phường Thủ Dầu Một (Tiết 8)
-LOCATION:Hội trường VA3 & P.101-102 EMC
-DESCRIPTION:Phụ trách: Cô Lim Thy, Cô Đào (Lồng đèn); Thầy Tùng, Cô Vi (Văn nghệ)\nĐối tượng: Đội thi học sinh VA3\nNguồn: KH 287/KH-VA3 (https://drive.google.com/file/d/1rhNEu5a2-treFfPpjpDDgHkdD0FCR4ux/view?usp=drivesdk)
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:series_luyen_tap_van_nghe_cambridge_v18@vietanhschool.edu.vn
-DTSTAMP:20260919T040210Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260923T084500
-DTEND;TZID=Asia/Ho_Chi_Minh:20260923T101500
-SUMMARY:Luyện Tập Band & Hợp Xướng Lễ Trao Bằng Cambridge (Tiết 2,3 Thứ Tư)
-LOCATION:Phòng nhạc VA3 & Hội trường Đa năng VA3
-DESCRIPTION:Phụ trách: Thầy Tùng, Mr. Zachary, Cô Tuyền\nTiết mục: Tam ca & Band (I'm Still Standing) và Hợp xướng (Swinging on a Star)\nNguồn: KH 302/KH-VA3 (https://drive.google.com/file/d/1bg26eJnWGEW51SGlYhOtOPC7UoAferVE/view?usp=drivesdk)
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:series_clb_ngoai_gio_t2_t4_v18@vietanhschool.edu.vn
-DTSTAMP:20260919T040210Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260921T161500
-DTEND;TZID=Asia/Ho_Chi_Minh:20260921T171500
+UID:series_clb_ngoai_gio_t2_t4_v20@vietanhschool.edu.vn
+DTSTAMP:20260925T062518Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260928T161500
+DTEND;TZID=Asia/Ho_Chi_Minh:20260928T171500
 RRULE:FREQ=WEEKLY;BYDAY=MO,WE;UNTIL=20261118T235959Z
 SUMMARY:Câu Lạc Bộ Ngoài Giờ Khóa 1 (Thứ 2 & Thứ 4: Vovinam, Taekwondo, Bơi, Vẽ, Nhảy Dây, Piano, Bóng Đá SSC)
 LOCATION:Cơ sở VA1 & VA3
@@ -81,10 +50,10 @@ DESCRIPTION:Phụ trách: Võ sư ĐH TDM, CLB Bóng đá SSC, GV Năng khiếu 
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:series_clb_ngoai_gio_t3_t5_v18@vietanhschool.edu.vn
-DTSTAMP:20260919T040210Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260922T161500
-DTEND;TZID=Asia/Ho_Chi_Minh:20260922T171500
+UID:series_clb_ngoai_gio_t3_t5_v20@vietanhschool.edu.vn
+DTSTAMP:20260925T062518Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260929T161500
+DTEND;TZID=Asia/Ho_Chi_Minh:20260929T171500
 RRULE:FREQ=WEEKLY;BYDAY=TU,TH;UNTIL=20261119T235959Z
 SUMMARY:Câu Lạc Bộ Ngoài Giờ Khóa 1 (Thứ 3 & Thứ 5: Bơi, Shuffle Dance, Cờ Vua, Piano, Vẽ, Bóng Rổ, Bóng Chuyền, Bóng Đá SSC Nâng Cao)
 LOCATION:Cơ sở VA1 & VA3
@@ -92,10 +61,10 @@ DESCRIPTION:Phụ trách: HLV SSC, GV Năng khiếu VA\nĐối tượng: Học s
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:series_ban_tru_nghi_trua_from2009_v18@vietanhschool.edu.vn
-DTSTAMP:20260919T040210Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260921T115500
-DTEND;TZID=Asia/Ho_Chi_Minh:20260921T122500
+UID:series_ban_tru_nghi_trua_from2609_v20@vietanhschool.edu.vn
+DTSTAMP:20260925T062518Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260928T115500
+DTEND;TZID=Asia/Ho_Chi_Minh:20260928T122500
 RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR;UNTIL=20270528T235959Z
 SUMMARY:Quản Lý Học Sinh Giờ Nghỉ Trưa Bán Trú
 LOCATION:Khu vực Bán trú VA3 & EMC
@@ -103,10 +72,10 @@ DESCRIPTION:Phụ trách: Thầy Thuần, Ban Quản lý Bán trú\nĐối tư�
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:series_sau_gio_hoc_don_tra_from2009_v18@vietanhschool.edu.vn
-DTSTAMP:20260919T040210Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260921T160000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260921T164500
+UID:series_sau_gio_hoc_don_tra_from2609_v20@vietanhschool.edu.vn
+DTSTAMP:20260925T062518Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260928T160000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260928T164500
 RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR;UNTIL=20270528T235959Z
 SUMMARY:Quản Lý Học Sinh Sau Giờ Học & Đón Trả
 LOCATION:Sảnh chính & Cổng trường VA3
@@ -114,14 +83,36 @@ DESCRIPTION:Phụ trách: Thầy Khang (PHT), Giám thị\nĐối tượng: Họ
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:series_hoc_buoi_toi_k12_from2009_v18@vietanhschool.edu.vn
-DTSTAMP:20260919T040210Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260921T170000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260921T210000
+UID:series_hoc_buoi_toi_k12_from2609_v20@vietanhschool.edu.vn
+DTSTAMP:20260925T062518Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260928T170000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260928T210000
 RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR;UNTIL=20270528T235959Z
 SUMMARY:Lớp Học Buổi Tối Dành Cho Khối 12 (Ôn Tập & Tự Học)
 LOCATION:Phòng học Khối 12 - VA3
 DESCRIPTION:Phụ trách: Thầy Hoài, GVCN Khối 12\nĐối tượng: Toàn thể Học sinh Khối 12 bán trú/nội trú\nNguồn: KH Học tối (https://drive.google.com/file/d/1VJrLw2Bg1jf7N71VX2y5UcxgcTJfLlCN/view?usp=drive_link)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:series_attendance_app_iep_from2609@vietanhschool.edu.vn
+DTSTAMP:20260925T060500Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260928T070000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260928T164500
+RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR;UNTIL=20270528T235959Z
+SUMMARY:Vận Hành Ứng Dụng Điểm Danh & Sổ Đầu Bài Online Gr 6-12 Ontario (KH 313)
+LOCATION:Trực tuyến: https://emc-realtime-attendance-v2.vercel.app/
+DESCRIPTION:Phụ trách: Ban Giám hiệu, BP Quốc tế EMC, GVCN & GVBM Gr 6-12\nNội dung: Điểm danh đầu ngày trước Tiết 1 và hoàn tất Sổ đầu bài Online trong vòng 5 phút sau mỗi Tiết 1-8\nNguồn: KH 313/KH-VA3 (https://drive.google.com/file/d/1zBBCGZ_mIkXSeYWkSGNQ55bJ9aOcvxFw/view?usp=drivesdk)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:series_so_gddt_thi_hsg_olympic_2026@vietanhschool.edu.vn
+DTSTAMP:20260925T060500Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260928T080000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260928T113000
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261130T235959Z
+SUMMARY:Triển Khai Kế Hoạch & Kỳ Thi Chọn HSG, Olympic TP.HCM Sở GD&ĐT (KH 9763 & KH 9762)
+LOCATION:Văn phòng Chuyên môn THCS - THPT VA3
+DESCRIPTION:Phụ trách: Thầy Huỳnh Văn Tuấn chỉ đạo các Tổ bộ môn\nNội dung: Triển khai Kế hoạch thi chọn HSG cấp TP (KH 9763/KH-SGDĐT), Olympic TP.HCM (KH 9762/KH-SGDĐT), Công tác Pháp chế (CV 9800), Đảm bảo CLGD (CV 9812)\nNguồn: Sổ tiếp nhận văn bản Sở GD&ĐT (https://drive.google.com/file/d/1aRKN5ss5VZlOpCEHsqSCgWlbJCgzBt4L/view?usp=drivesdk)
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
