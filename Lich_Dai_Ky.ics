@@ -1,118 +1,205 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Trường Trung Tiểu Học Việt Anh//Lịch Sự Kiện Dài Kỳ//VI
+PRODID:-//Hệ Thống Trường Việt Anh//Lịch Định Kỳ & Dự Án v22//VI
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Lịch Dài Kỳ
+X-WR-CALNAME:Lịch Chuỗi & Định Kỳ Năm Học 2026-2027
 X-WR-TIMEZONE:Asia/Ho_Chi_Minh
+BEGIN:VTIMEZONE
+TZID:Asia/Ho_Chi_Minh
+X-LIC-LOCATION:Asia/Ho_Chi_Minh
+BEGIN:STANDARD
+TZOFFSETFROM:+0700
+TZOFFSETTO:+0700
+TZNAME:+07
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
 BEGIN:VEVENT
-UID:series_chao_co_t2_from2609@vietanhschool.edu.vn
-DTSTAMP:20260925T062518Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260928T071500
-DTEND;TZID=Asia/Ho_Chi_Minh:20260928T080000
+UID:series_chao_co_2026@vietanhschool.edu.vn
+DTSTAMP:20261002T080000Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20261005T071500
+DTEND;TZID=Asia/Ho_Chi_Minh:20261005T080000
 RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20270215T235959Z
-SUMMARY:Thông Điệp Đầu Tuần (Chào Cờ Toàn Trường)
+SUMMARY:Thông Điệp Đầu Tuần (Chào Cờ)
 LOCATION:Sân trường VA1 & VA3
-DESCRIPTION:Phụ trách: Cô Đinh Thị Ngọc (Hiệu trưởng)\nĐối tượng: Toàn thể CB-GV-NV & Học sinh\nNguồn: Kế hoạch Thông điệp Đầu tuần (https://drive.google.com/file/d/1oYqXnCHpse58pOv6cmzEcXC1Rd55BESx/view?usp=drive_link)
+DESCRIPTION:Chủ trì: Cô Đinh Thị Ngọc (Hiệu trưởng)\nNội dung: Thông điệp đầu tuần chào cờ toàn trường\nNguồn: https://drive.google.com/file/d/1oYqXnCHpse58pOv6cmzEcXC1Rd55BESx/view?usp=drive_link
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:series_handicrafts_break_th_va3_v20@vietanhschool.edu.vn
-DTSTAMP:20260925T062518Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260928T095000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260928T101000
-RRULE:FREQ=WEEKLY;BYDAY=MO,WE;UNTIL=20261130T235959Z
-SUMMARY:Handicrafts Break - 20 Phút Bình Yên (Tiểu Học VA3)
-LOCATION:Phòng Handicrafts - Trường Việt Anh 3
-DESCRIPTION:Phụ trách: Tổ Kỹ năng sống & GV hướng dẫn\nĐối tượng: Học sinh Tiểu học VA3 tham gia giờ ra chơi dài Thứ 2 & Thứ 4\nNguồn: KH 289/KH-VA3 (https://drive.google.com/file/d/1DHtqvjiBeYEp64HNr6mMhI8WRcwSGazk/view?usp=drivesdk)
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:series_handicrafts_break_trunghoc_va3_v20@vietanhschool.edu.vn
-DTSTAMP:20260925T062518Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260929T095000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260929T101000
-RRULE:FREQ=WEEKLY;BYDAY=TU,TH;UNTIL=20261130T235959Z
-SUMMARY:Handicrafts Break - 20 Phút Bình Yên (Trung Học VA3)
-LOCATION:Phòng Handicrafts - Trường Việt Anh 3
-DESCRIPTION:Phụ trách: Tổ Kỹ năng sống & GV hướng dẫn\nĐối tượng: Học sinh THCS - THPT VA3 tham gia giờ ra chơi dài Thứ 3 & Thứ 5\nNguồn: KH 289/KH-VA3 (https://drive.google.com/file/d/1DHtqvjiBeYEp64HNr6mMhI8WRcwSGazk/view?usp=drivesdk)
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:series_clb_ngoai_gio_t2_t4_v20@vietanhschool.edu.vn
-DTSTAMP:20260925T062518Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260928T161500
-DTEND;TZID=Asia/Ho_Chi_Minh:20260928T171500
-RRULE:FREQ=WEEKLY;BYDAY=MO,WE;UNTIL=20261118T235959Z
-SUMMARY:Câu Lạc Bộ Ngoài Giờ Khóa 1 (Thứ 2 & Thứ 4: Vovinam, Taekwondo, Bơi, Vẽ, Nhảy Dây, Piano, Bóng Đá SSC)
-LOCATION:Cơ sở VA1 & VA3
-DESCRIPTION:Phụ trách: Võ sư ĐH TDM, CLB Bóng đá SSC, GV Năng khiếu VA\nĐối tượng: Học sinh đăng ký CLB ngoài giờ Khóa 1\nNguồn: TB 32 & TB 49 (https://drive.google.com/file/d/1orZMpoyCjt4kP0jL_CsUT2N-HFS8BQ8e/view?usp=drivesdk)
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:series_clb_ngoai_gio_t3_t5_v20@vietanhschool.edu.vn
-DTSTAMP:20260925T062518Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260929T161500
-DTEND;TZID=Asia/Ho_Chi_Minh:20260929T171500
-RRULE:FREQ=WEEKLY;BYDAY=TU,TH;UNTIL=20261119T235959Z
-SUMMARY:Câu Lạc Bộ Ngoài Giờ Khóa 1 (Thứ 3 & Thứ 5: Bơi, Shuffle Dance, Cờ Vua, Piano, Vẽ, Bóng Rổ, Bóng Chuyền, Bóng Đá SSC Nâng Cao)
-LOCATION:Cơ sở VA1 & VA3
-DESCRIPTION:Phụ trách: HLV SSC, GV Năng khiếu VA\nĐối tượng: Học sinh đăng ký CLB ngoài giờ Khóa 1\nNguồn: TB 32 & TB 49 (https://drive.google.com/file/d/1orZMpoyCjt4kP0jL_CsUT2N-HFS8BQ8e/view?usp=drivesdk)
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:series_ban_tru_nghi_trua_from2609_v20@vietanhschool.edu.vn
-DTSTAMP:20260925T062518Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260928T115500
-DTEND;TZID=Asia/Ho_Chi_Minh:20260928T122500
-RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR;UNTIL=20270528T235959Z
-SUMMARY:Quản Lý Học Sinh Giờ Nghỉ Trưa Bán Trú
-LOCATION:Khu vực Bán trú VA3 & EMC
-DESCRIPTION:Phụ trách: Thầy Thuần, Ban Quản lý Bán trú\nĐối tượng: Toàn thể Học sinh Bán trú\nNguồn: KH Bán trú (https://drive.google.com/file/d/1aSR0tYJYu2ZHrUI-bhK3-QSaMADxSiCp/view?usp=drive_link)
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:series_sau_gio_hoc_don_tra_from2609_v20@vietanhschool.edu.vn
-DTSTAMP:20260925T062518Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260928T160000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260928T164500
-RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR;UNTIL=20270528T235959Z
-SUMMARY:Quản Lý Học Sinh Sau Giờ Học & Đón Trả
-LOCATION:Sảnh chính & Cổng trường VA3
-DESCRIPTION:Phụ trách: Thầy Khang (PHT), Giám thị\nĐối tượng: Học sinh chờ Phụ huynh đón\nNguồn: KH Bán trú (https://drive.google.com/file/d/1aSR0tYJYu2ZHrUI-bhK3-QSaMADxSiCp/view?usp=drive_link)
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:series_hoc_buoi_toi_k12_from2609_v20@vietanhschool.edu.vn
-DTSTAMP:20260925T062518Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260928T170000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260928T210000
-RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR;UNTIL=20270528T235959Z
-SUMMARY:Lớp Học Buổi Tối Dành Cho Khối 12 (Ôn Tập & Tự Học)
-LOCATION:Phòng học Khối 12 - VA3
-DESCRIPTION:Phụ trách: Thầy Hoài, GVCN Khối 12\nĐối tượng: Toàn thể Học sinh Khối 12 bán trú/nội trú\nNguồn: KH Học tối (https://drive.google.com/file/d/1VJrLw2Bg1jf7N71VX2y5UcxgcTJfLlCN/view?usp=drive_link)
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:series_attendance_app_iep_from2609@vietanhschool.edu.vn
-DTSTAMP:20260925T060500Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260928T070000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260928T164500
+UID:series_attendance_app_iep@vietanhschool.edu.vn
+DTSTAMP:20261002T080000Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20261005T070000
+DTEND;TZID=Asia/Ho_Chi_Minh:20261005T164500
 RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR;UNTIL=20270528T235959Z
 SUMMARY:Vận Hành Ứng Dụng Điểm Danh & Sổ Đầu Bài Online Gr 6-12 Ontario (KH 313)
 LOCATION:Trực tuyến: https://emc-realtime-attendance-v2.vercel.app/
-DESCRIPTION:Phụ trách: Ban Giám hiệu, BP Quốc tế EMC, GVCN & GVBM Gr 6-12\nNội dung: Điểm danh đầu ngày trước Tiết 1 và hoàn tất Sổ đầu bài Online trong vòng 5 phút sau mỗi Tiết 1-8\nNguồn: KH 313/KH-VA3 (https://drive.google.com/file/d/1zBBCGZ_mIkXSeYWkSGNQ55bJ9aOcvxFw/view?usp=drivesdk)
+DESCRIPTION:Phụ trách: Ban Giám hiệu, BP Quốc tế EMC, GVCN & GVBM Gr 6-12\nNội dung: Điểm danh đầu ngày trước Tiết 1 và ghi nhận Sổ đầu bài Online trong vòng 5 phút sau mỗi Tiết 1-8\nNguồn: KH 313/KH-VA3 (https://drive.google.com/file/d/1zBBCGZ_mIkXSeYWkSGNQ55bJ9aOcvxFw/view?usp=drivesdk)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:series_du_an_tieng_anh_va1@vietanhschool.edu.vn
+DTSTAMP:20261002T080000Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20261005T080000
+DTEND;TZID=Asia/Ho_Chi_Minh:20261005T160000
+RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR;UNTIL=20270430T235959Z
+SUMMARY:Chương Trình Dạy Học Theo Dự Án Tiếng Anh Tiểu Học VA1 (KH 126–132)
+LOCATION:Phòng học & English Zone Cơ sở VA1
+DESCRIPTION:Phụ trách: Hiệu trưởng Huỳnh Văn Tuấn, Tổ Tiếng Anh Tiểu học VA1\nNội dung: Dự án Tiếng Anh Pre A1 Foundation (K1), Pre A1 Starters (K2), A1 Movers (K3), A2 Flyers (K4, 5) và A2 Key / KET Khối 5\nNguồn: KH 126-132/KH-VA (https://drive.google.com/file/d/1mwBVdeusOnuWTpMbBjZ90n_05xSAzooH/view?usp=drivesdk)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:series_handicrafts_break_va3@vietanhschool.edu.vn
+DTSTAMP:20261002T080000Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20261005T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20261005T095000
+RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH;UNTIL=20261130T235959Z
+SUMMARY:Handicrafts Break - 20 Phút Bình Yên Học Kỳ I (VA3) (KH 289)
+LOCATION:Phòng Handicrafts VA3
+DESCRIPTION:Phụ trách: Tổ Kỹ năng sống & GV hướng dẫn\nNội dung: Trải nghiệm thủ công thư giãn giờ giải lao dài cho Tiểu học (Thứ 2, 4) và Trung học (Thứ 3, 5)\nNguồn: KH 289/KH-VA3 (https://drive.google.com/file/d/1DHtqvjiBeYEp64HNr6mMhI8WRcwSGazk/view?usp=drivesdk)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:series_bep_thuc_nghiem_va1@vietanhschool.edu.vn
+DTSTAMP:20261002T080000Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20261005T083000
+DTEND;TZID=Asia/Ho_Chi_Minh:20261005T100000
+RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR;UNTIL=20261031T235959Z
+SUMMARY:Không Gian Trải Nghiệm Bếp Thực Nghiệm VA1 (GĐ 1) (KH 123)
+LOCATION:Phòng Bếp thực nghiệm VA1
+DESCRIPTION:Phụ trách: Tổ Kỹ năng sống & GV Tiểu học VA1\nNội dung: Trải nghiệm bếp 6 bước chuẩn, phát triển dinh dưỡng, an toàn thực phẩm và tính tự lập cho Khối 1-5\nNguồn: KH 123/KH-VA (https://drive.google.com/file/d/13iIBKkaiseBcwyFRJh_4VYYIu1n52ulf/view?usp=drivesdk)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:series_makerspace_van_hoc_va3@vietanhschool.edu.vn
+DTSTAMP:20261002T080000Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20261005T133000
+DTEND;TZID=Asia/Ho_Chi_Minh:20261005T163000
+RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR;UNTIL=20261030T235959Z
+SUMMARY:Chuẩn Bị & Chế Tạo Sản Phẩm Tuần Lễ Văn Học Tại Handicrafts Makerspace (KH 299)
+LOCATION:Phòng Handicrafts - Xưởng sáng tạo Văn học VA3
+DESCRIPTION:Phụ trách: Tổ Ngữ văn, GV Handicrafts, HS nòng cốt 6-12\nNội dung: Chế tạo Báo tường 3D, Mô hình tác phẩm văn học, chuẩn bị gian hàng Tiệm văn du kí\nNguồn: KH 299/KH-VA3 (https://drive.google.com/file/d/1GCyjI_er4kIfU0TOnqAcgshkd8ak6CPy/view?usp=drivesdk)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:series_clb_ngoai_gio_va1_va3@vietanhschool.edu.vn
+DTSTAMP:20261002T080000Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20261005T161500
+DTEND;TZID=Asia/Ho_Chi_Minh:20261005T171500
+RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH;UNTIL=20261203T235959Z
+SUMMARY:Các Lớp Câu Lạc Bộ Ngoài Giờ Khóa 1 (VA1 & VA3)
+LOCATION:Cơ sở VA1 & Cơ sở VA3
+DESCRIPTION:Phụ trách: Võ sư ĐH TDM, CLB Bóng đá SSC, GV Năng khiếu VA\nNội dung: Tổ chức 10 CLB thể thao - nghệ thuật sau giờ học\nNguồn: TB 32 & TB 49 (https://drive.google.com/file/d/1orZMpoyCjt4kP0jL_CsUT2N-HFS8BQ8e/view?usp=drivesdk)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:series_pe_gr9_ontario@vietanhschool.edu.vn
+DTSTAMP:20261002T080000Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20261009T084500
+DTEND;TZID=Asia/Ho_Chi_Minh:20261009T101500
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20270115T235959Z
+SUMMARY:Ứng Dụng Thiết Bị Công Nghệ Môn PE Khối 9 IEP Ontario (KH 277)
+LOCATION:Phòng học Grade 9 EMC
+DESCRIPTION:Phụ trách: Ms. Donna Fe N. Cabalfin, BP Quốc tế\nNội dung: Ứng dụng công nghệ theo dõi chỉ số thể chất môn PE\nNguồn: KH 277/KH-VA3 (https://drive.google.com/file/d/1yNS4B26J04pimSF80bvEIgM-rHe_2y7K/view?usp=drivesdk)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:series_chuyen_to_hop_k11_k12@vietanhschool.edu.vn
+DTSTAMP:20261002T080000Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20261003T080000
+DTEND;TZID=Asia/Ho_Chi_Minh:20261003T113000
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20261114T235959Z
+SUMMARY:Bổ Sung Kiến Thức Cho Học Sinh Chuyển Tổ Hợp (K11 & K12)
+LOCATION:P. E205-EMC, Thư viện VA3, Sân EMC
+DESCRIPTION:Phụ trách: Thầy Trung, Thầy Khanh, Cô Đào, Thầy Hoài, Cô Thúy, Cô Lam\nNội dung: Bổ sung kiến thức GDQP, Tin học, KTPL (đến 10/10), Công nghệ (17/10-14/11)\nNguồn: https://drive.google.com/file/d/1BeJfPi2-nwhxDHAPlH8GTzf0Qb3POPZA/view?usp=sharing
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:series_ban_tru_va3_emc@vietanhschool.edu.vn
+DTSTAMP:20261002T080000Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20261005T115500
+DTEND;TZID=Asia/Ho_Chi_Minh:20261005T122500
+RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR;UNTIL=20270528T235959Z
+SUMMARY:Lịch Vận Hành Bán Trú & Quản Lý Học Sinh (2026 - 2027)
+LOCATION:Khu bán trú & Tòa nhà VA3, EMC
+DESCRIPTION:Phụ trách: Thầy Thuần (Trưa), Thầy Khang (Chiều), Thầy Lực\nNội dung: Quản lý giờ ăn, nghỉ trưa, an toàn sau giờ học\nNguồn: https://drive.google.com/file/d/1aSR0tYJYu2ZHrUI-bhK3-QSaMADxSiCp/view?usp=drive_link
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:series_hoc_toi_khoi_12@vietanhschool.edu.vn
+DTSTAMP:20261002T080000Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20261005T170000
+DTEND;TZID=Asia/Ho_Chi_Minh:20261005T210000
+RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR;UNTIL=20270528T235959Z
+SUMMARY:Lớp Học Buổi Tối Dành Cho Khối 12
+LOCATION:Phòng học Khối 12 Tòa nhà VA3
+DESCRIPTION:Phụ trách: Thầy Hoài, GVCN Khối 12, Ban Quản nhiệm Tối\nNội dung: Tự học có hướng dẫn, ôn tập thi tốt nghiệp THPT 2027\nNguồn: https://drive.google.com/file/d/1VJrLw2Bg1jf7N71VX2y5UcxgcTJfLlCN/view?usp=drive_link
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:series_clb_am_nhac_va3@vietanhschool.edu.vn
+DTSTAMP:20261002T080000Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20261005T095000
+DTEND;TZID=Asia/Ho_Chi_Minh:20261005T101000
+RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR;UNTIL=20270528T235959Z
+SUMMARY:Sinh Hoạt CLB Âm Nhạc Thường Xuyên
+LOCATION:Phòng Âm nhạc VA3
+DESCRIPTION:Phụ trách: Cô Vi, Thầy Tùng, Cô Hà, Ban Chủ nhiệm CLB\nNội dung: Luyện tập nhạc cụ, hòa tấu học đường trong giờ giải lao\nNguồn: https://drive.google.com/open?id=1G2zefKilSnRNNvzp2FQbKScG4w1WwHYa
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:series_vatask_implementation@vietanhschool.edu.vn
+DTSTAMP:20261002T080000Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20261005T080000
+DTEND;TZID=Asia/Ho_Chi_Minh:20261005T170000
+RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR;UNTIL=20270528T235959Z
+SUMMARY:Triển Khai Hệ Thống Quản Lý Kế Hoạch & Phân Công Giáo Viên VATask (KH 305)
+LOCATION:Hệ thống trực tuyến: http://vatask.vietanhschool.edu.vn/
+DESCRIPTION:Phụ trách: Thầy Trần Chí Hải, BGH VA3, Tổ trưởng chuyên môn\nNội dung: Quản lý kế hoạch tuần, lịch báo giảng và dạy thay trực tuyến\nNguồn: KH 305/KH-VA3 (https://drive.google.com/file/d/1sUkphp9VmCZf3pOorUNF7KEfc-MZZTYR/view?usp=drivesdk)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:series_so_gddt_thi_hsg_olympic_2026@vietanhschool.edu.vn
-DTSTAMP:20260925T060500Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260928T080000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260928T113000
+DTSTAMP:20261002T080000Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20261005T080000
+DTEND;TZID=Asia/Ho_Chi_Minh:20261005T113000
 RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20261130T235959Z
 SUMMARY:Triển Khai Kế Hoạch & Kỳ Thi Chọn HSG, Olympic TP.HCM Sở GD&ĐT (KH 9763 & KH 9762)
 LOCATION:Văn phòng Chuyên môn THCS - THPT VA3
-DESCRIPTION:Phụ trách: Thầy Huỳnh Văn Tuấn chỉ đạo các Tổ bộ môn\nNội dung: Triển khai Kế hoạch thi chọn HSG cấp TP (KH 9763/KH-SGDĐT), Olympic TP.HCM (KH 9762/KH-SGDĐT), Công tác Pháp chế (CV 9800), Đảm bảo CLGD (CV 9812)\nNguồn: Sổ tiếp nhận văn bản Sở GD&ĐT (https://drive.google.com/file/d/1aRKN5ss5VZlOpCEHsqSCgWlbJCgzBt4L/view?usp=drivesdk)
+DESCRIPTION:Phụ trách: Thầy Huỳnh Văn Tuấn chỉ đạo các Tổ bộ môn\nNội dung: Triển khai Kế hoạch thi chọn HSG cấp TP (KH 9763/KH-SGDĐT), Olympic TP.HCM (KH 9762/KH-SGDĐT)\nNguồn: Sổ tiếp nhận văn bản Sở GD&ĐT (https://drive.google.com/file/d/1aRKN5ss5VZlOpCEHsqSCgWlbJCgzBt4L/view?usp=drivesdk)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:series_vamtss_psy_screening_2026@vietanhschool.edu.vn
+DTSTAMP:20261002T080000Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20261005T080000
+DTEND;TZID=Asia/Ho_Chi_Minh:20261005T163000
+RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR;UNTIL=20270528T235959Z
+SUMMARY:Dự Án Khung Hỗ Trợ Đa Tầng VAMTSS Sàng Lọc Tâm Lý Xã Hội Học Đường (KH 323)
+LOCATION:Phòng Tin học & Phòng Tham vấn Tâm lý VA3
+DESCRIPTION:Phụ trách: Hiệu trưởng Đinh Thị Ngọc, Phòng Tham vấn Tâm lý, GVCN\nNội dung: Khung hỗ trợ 3 bậc VAMTSS theo TT 31/2017 & TT 18/2025 BGDĐT, sàng lọc tâm lý xã hội và can thiệp kịp thời\nNguồn: KH 323/KH-VA3 (https://drive.google.com/file/d/1vkwpwiWpMZYkxbTOFbVRPdfRwMKL_Wrz/view?usp=drivesdk)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:series_vpdt_sgddt_10267@vietanhschool.edu.vn
+DTSTAMP:20261002T080000Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20261005T080000
+DTEND;TZID=Asia/Ho_Chi_Minh:20261005T170000
+RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR;UNTIL=20261231T235959Z
+SUMMARY:Triển Khai Hệ Thống Văn Phòng Điện Tử Mới Ngành GD&ĐT (CV 10267/SGDĐT-VP)
+LOCATION:Trực tuyến: https://qlvb.hcmict.com.vn và https://vanthu.hcm.edu.vn
+DESCRIPTION:Phụ trách: Ban Giám hiệu, Văn thư, Lưu trữ, Cán bộ phụ trách\nNội dung: Triển khai hệ thống Văn phòng điện tử dùng chung toàn ngành GD&ĐT TP.HCM\nNguồn: CV 10267/SGDĐT-VP (https://drive.google.com/file/d/1RdpKB5fRBNhAqz6aalSlURlmZ94ZZikX/view?usp=drivesdk)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:series_vovinam_vo_nhac_335@vietanhschool.edu.vn
+DTSTAMP:20261002T080000Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20261008T150000
+DTEND;TZID=Asia/Ho_Chi_Minh:20261008T163000
+RRULE:FREQ=WEEKLY;BYDAY=TH,FR;UNTIL=20261010T235959Z
+SUMMARY:Tập Luyện Võ Nhạc Vovinam Đồng Diễn Thể Thao Học Đường (KH 335/KH-VA3)
+LOCATION:Sân trường & Sân bóng đá EMC - VA3
+DESCRIPTION:Phụ trách: Thầy Quang, Thầy Danh, Đội võ nhạc 12 HS Khối 7-8\nNội dung: Luyện tập bài quyền đồng diễn võ nhạc Vovinam chuẩn bị khai mạc Hội thao PHHS 10/10/2026\nNguồn: KH 335/KH-VA3 (https://drive.google.com/file/d/1lShih0JOBdQSTgFZn7Gt5NY21ZNN0wTG/view?usp=drivesdk)
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

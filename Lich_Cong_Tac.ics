@@ -1,258 +1,148 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Trường Trung Tiểu Học Việt Anh//Lịch Công Tác BGH//VI
+PRODID:-//Hệ Thống Trường Việt Anh//Lịch Công Tác BGH v22//VI
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Lịch Công Tác
+X-WR-CALNAME:Lịch Công Tác BGH (Từ 03/10/2026)
 X-WR-TIMEZONE:Asia/Ho_Chi_Minh
+BEGIN:VTIMEZONE
+TZID:Asia/Ho_Chi_Minh
+X-LIC-LOCATION:Asia/Ho_Chi_Minh
+BEGIN:STANDARD
+TZOFFSETFROM:+0700
+TZOFFSETTO:+0700
+TZNAME:+07
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
 BEGIN:VEVENT
-UID:bgh_82426cfa86169e25@vietanhschool.edu.vn
-DTSTAMP:20260925T062518Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260926T063000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260926T091500
-SUMMARY:Lễ Trao Chứng Chỉ Tiếng Anh Cambridge 2026 - Ca 1 (Starters, Movers, Flyers) (KH 298 & TB 33)
-LOCATION:Hội trường Đa năng, Tòa nhà CT Tích hợp & Nhà học tập hồ bơi VA3
-DESCRIPTION:Phụ trách: Hiệu trưởng Đinh Thị Ngọc, BGH VA3, Tổ Tiếng Anh, Ban Lễ tân & Hậu cần\nĐối tượng: 152 Học sinh đạt chứng chỉ Starters, Movers, Flyers cùng Quý Phụ huynh (Đón & mặc lễ phục 6h30; Lễ 7h15-8h45; Photo & Buffet 8h55-9h15)\nNguồn kế hoạch: KH 298/KH-VA3 & TB 33/TB-VA (https://drive.google.com/file/d/1ldFSiyj38d1UuWaUm1I6AmXalZcPvFB4/view?usp=drivesdk)
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:bgh_ffc03c68bb70b45d@vietanhschool.edu.vn
-DTSTAMP:20260925T062518Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260926T073000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260926T170000
-SUMMARY:Lịch Nghỉ Thưởng Thứ Bảy Trong Tháng 9/2026 (Dự Kiến)
-LOCATION:Toàn trường (VA1, VA3, EMC)
-DESCRIPTION:Phụ trách: Ban Giám hiệu & Phòng Nhân sự\nĐối tượng: Toàn thể Thầy Cô, Cán bộ - Giáo viên - Nhân viên không có nhiệm vụ lễ\nNguồn kế hoạch: Thông báo nội bộ BGH (https://drive.google.com/file/d/1q7SbyfWhUlgIjfGj1nb3kdFHQNp27tTy/view?usp=drivesdk)
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:bgh_5d932a208f987529@vietanhschool.edu.vn
-DTSTAMP:20260925T062518Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260926T083000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260926T114500
-SUMMARY:Lễ Trao Chứng Chỉ Tiếng Anh Cambridge 2026 - Ca 2 (KET, PET & Cấp Độ Cao) (KH 298 & TB 52)
-LOCATION:Hội trường Đa năng, Tòa nhà CT Tích hợp & Nhà học tập hồ bơi VA3
-DESCRIPTION:Phụ trách: Hiệu trưởng Đinh Thị Ngọc, BGH VA3, Tổ Tiếng Anh, Ban Lễ tân & Hậu cần\nĐối tượng: 187 Học sinh đạt chứng chỉ KET, PET cùng Quý Phụ huynh (Đón & mặc lễ phục 8h30; Lễ chính 9h15-11h15; Photo & Buffet 11h20-11h45)\nNguồn kế hoạch: KH 298/KH-VA3 & TB 52/TB-VA3 (https://drive.google.com/file/d/1ldFSiyj38d1UuWaUm1I6AmXalZcPvFB4/view?usp=drivesdk)
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:bgh_2848d10432b80c18@vietanhschool.edu.vn
-DTSTAMP:20260925T062518Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260928T080000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260930T170000
-SUMMARY:Rà Soát, Tổng Hợp Số Liệu Người Học Tốt Nghiệp THPT Qua Các Thời Kỳ - Giai Đoạn 1 (CV 9911/SGDĐT-QLCL)
-LOCATION:Văn phòng Học vụ / Hồ sơ lưu trữ THPT
-DESCRIPTION:Phụ trách: Hiệu trưởng / Phó Hiệu trưởng (Tổ trưởng Tổ công tác), Văn thư, Lưu trữ, CNTT, Học vụ\nĐối tượng: Thành lập Tổ công tác; rà soát, tổng hợp số lượng học sinh tốt nghiệp THPT từ năm 1988 (hoặc năm đầu tiên có người học tốt nghiệp) đến nay; xác định danh mục sổ đăng bộ, sổ cấp phát văn bằng, danh sách công nhận tốt nghiệp; lập báo cáo trực tuyến qua Google Forms của Sở GD&ĐT theo Công văn 9911/SGDĐT-QLCL\nNguồn kế hoạch: CV 9911/SGDĐT-QLCL (https://drive.google.com/file/d/107MsNWQRTloU9NOfGhjuroY2WHHOXSxX/view?usp=drivesdk)
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:bgh_5cabe7537fd34398@vietanhschool.edu.vn
-DTSTAMP:20260925T062518Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260928T080000
-DTEND;TZID=Asia/Ho_Chi_Minh:20261002T170000
-SUMMARY:Tạm Khóa Hội Trường Nhà Đa Năng Phục Vụ Set Up Workshop Văn Học (KH 285)
-LOCATION:Hội trường Nhà đa năng VA3
-DESCRIPTION:Phụ trách: Tổ Ngữ văn, CSVC, Cô Thanh, Cô Vy, Marketing EMC\nĐối tượng: Chuẩn bị sân khấu, sofa, teabreak, trạm sạp & thư pháp\nNguồn kế hoạch: KH 285/KH-VA3 Workshop Văn học (https://drive.google.com/file/d/1x2jgodiD2Jfrxo_4YTsVHOOJdJE46w7N/view?usp=drivesdk)
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:bgh_d7adebba4a54d7e9@vietanhschool.edu.vn
-DTSTAMP:20260925T062518Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260928T133000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260928T144500
-SUMMARY:Kiểm Tra Tập Trung Giữa Kì I Khối Trung Học - Môn Writing (TB 54)
-LOCATION:Phòng học các lớp Khối 6, 7, 8, 9, 10, 11 - VA3
-DESCRIPTION:Phụ trách: Hội đồng kiểm tra, Ban Giám hiệu, GV Giám thị\nĐối tượng: Toàn thể Học sinh Khối 6 đến Khối 11 (Thời gian làm bài 60 phút; mở đề 13h30, phát đề 13h40)\nNguồn kế hoạch: TB 54/TB-VA3 Kiểm tra Giữa kì (https://drive.google.com/file/d/1LE1_dPnoggtCSCY_Y92UIfCTNCpQU9FM/view?usp=drivesdk)
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:bgh_07cd586c6c95ec8e@vietanhschool.edu.vn
-DTSTAMP:20260925T062518Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260929T071500
-DTEND;TZID=Asia/Ho_Chi_Minh:20260929T110500
-SUMMARY:Kiểm Tra Tập Trung Giữa Kì I Khối Trung Học - Môn Ngữ Văn & Hóa Học / Địa Lí (TB 54 & TB 55)
-LOCATION:Phòng học các lớp Khối 6 đến Khối 12 - VA3 & Phòng IEP EMC
-DESCRIPTION:Phụ trách: Hội đồng kiểm tra, Ban Giám hiệu, GV Giám thị, BP Quốc tế\nĐối tượng: Ngữ văn: K6-11 (7h15-9h00 / 90p), K12 (7h15-9h30 / 120p); Hóa học (K10, 11 TH1: 9h30-10h30; K12: 10h00-11h05); Địa lí (K10, 11 TH2, TH3: 9h30-10h30); Các môn IEP theo lịch\nNguồn kế hoạch: TB 54 & TB 55 Kiểm tra Giữa kì (https://drive.google.com/file/d/1LE1_dPnoggtCSCY_Y92UIfCTNCpQU9FM/view?usp=drivesdk)
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:bgh_ed19f3b3258660b7@vietanhschool.edu.vn
-DTSTAMP:20260925T062518Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260930T071500
-DTEND;TZID=Asia/Ho_Chi_Minh:20260930T103500
-SUMMARY:Kiểm Tra Tập Trung Giữa Kì I Khối Trung Học - Môn Lịch Sử & Toán (TB 54 & TB 55)
-LOCATION:Phòng học các lớp Khối 6 đến Khối 12 - VA3 & Phòng IEP EMC
-DESCRIPTION:Phụ trách: Hội đồng kiểm tra, Ban Giám hiệu, GV Giám thị, BP Quốc tế\nĐối tượng: Toán: K6-9 (7h15-9h00 / 90p), K10-12 (8h45/8h50-10h30/10h35 / 90p); Lịch sử: K10-12 (7h15-8h15/8h20 / 45-50p); Các môn IEP theo lịch\nNguồn kế hoạch: TB 54 & TB 55 Kiểm tra Giữa kì (https://drive.google.com/file/d/1LE1_dPnoggtCSCY_Y92UIfCTNCpQU9FM/view?usp=drivesdk)
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:bgh_8b02c0865f3827f8@vietanhschool.edu.vn
-DTSTAMP:20260925T062518Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20261001T071500
-DTEND;TZID=Asia/Ho_Chi_Minh:20261001T083000
-SUMMARY:Kiểm Tra Tập Trung Giữa Kì I Khối Trung Học - Môn Sinh Học / GD KT&PL / LS&ĐL (TB 54 & TB 55)
-LOCATION:Phòng học các lớp Khối 6 đến Khối 12 - VA3 & Phòng IEP EMC
-DESCRIPTION:Phụ trách: Hội đồng kiểm tra, Ban Giám hiệu, GV Giám thị, BP Quốc tế\nĐối tượng: LS & ĐL: K6-9 (7h15-8h30 / 60p); Sinh học: K10, 11 TH1 & K12 (7h15-8h15/8h20 / 45-50p); GD KT&PL: K10, 11 TH2, TH3 (7h15-8h15 / 45p)\nNguồn kế hoạch: TB 54 & TB 55 Kiểm tra Giữa kì (https://drive.google.com/file/d/1LE1_dPnoggtCSCY_Y92UIfCTNCpQU9FM/view?usp=drivesdk)
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:bgh_52a220a64b11a615@vietanhschool.edu.vn
-DTSTAMP:20260925T062518Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20261001T073000
-DTEND;TZID=Asia/Ho_Chi_Minh:20261001T082500
-SUMMARY:Kiểm Tra Tập Trung Giữa Kì I Khối 4, 5 - Môn Toán (TB 34 & TB 53)
-LOCATION:Phòng học Khối 4, 5 (Cơ sở VA1 & Cơ sở VA3)
-DESCRIPTION:Phụ trách: Hiệu trưởng Đinh Thị Ngọc, Hiệu trưởng Huỳnh Văn Tuấn, GV Giám thị\nĐối tượng: Toàn thể Học sinh Lớp 4 và Lớp 5 (Thời gian làm bài 40 phút; mở đề 7h30, phát đề 7h40)\nNguồn kế hoạch: TB 34/TB-VA & TB 53/TB-VA3 (https://drive.google.com/file/d/16o4CPGh_h9uMXEKjJbGBbrLGZ-jGreIo/view?usp=drivesdk)
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:bgh_8155ef894b6c3e86@vietanhschool.edu.vn
-DTSTAMP:20260925T062518Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20261002T071500
-DTEND;TZID=Asia/Ho_Chi_Minh:20261002T100000
-SUMMARY:Kiểm Tra Tập Trung Giữa Kì I Khối Trung Học - Môn Vật Lí / KHTN & Tiếng Anh (TB 54 & TB 55)
-LOCATION:Phòng học các lớp Khối 6 đến Khối 12 - VA3 & Phòng IEP EMC
-DESCRIPTION:Phụ trách: Hội đồng kiểm tra, Ban Giám hiệu, GV Giám thị, BP Quốc tế\nĐối tượng: KHTN: K6-9 (7h15-8h30 / 60p); Vật lí: K10, 11 TH1, TH2 & K12 (7h15-8h15/8h20 / 45-50p); Tiếng Anh BGD: K6-9 (9h00-10h00 / 45p), K10-12 (8h45/8h50-9h50/9h55 / 50p)\nNguồn kế hoạch: TB 54 & TB 55 Kiểm tra Giữa kì (https://drive.google.com/file/d/1LE1_dPnoggtCSCY_Y92UIfCTNCpQU9FM/view?usp=drivesdk)
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:bgh_9e42f716c9422ff5@vietanhschool.edu.vn
-DTSTAMP:20260925T062518Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20261002T073000
-DTEND;TZID=Asia/Ho_Chi_Minh:20261002T093500
-SUMMARY:Kiểm Tra Tập Trung Giữa Kì I Khối 4, 5 - Môn Tiếng Việt Đọc Hiểu & Viết (TB 34 & TB 53)
-LOCATION:Phòng học Khối 4, 5 (Cơ sở VA1 & Cơ sở VA3)
-DESCRIPTION:Phụ trách: Hiệu trưởng Đinh Thị Ngọc, Hiệu trưởng Huỳnh Văn Tuấn, GV Giám thị\nĐối tượng: Toàn thể Học sinh Lớp 4 và Lớp 5 (Tiếng Việt Đọc hiểu: 7h30-8h25 / 40p; Tiếng Việt Viết: 8h40-9h35 / 40p)\nNguồn kế hoạch: TB 34/TB-VA & TB 53/TB-VA3 (https://drive.google.com/file/d/16o4CPGh_h9uMXEKjJbGBbrLGZ-jGreIo/view?usp=drivesdk)
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:bgh_7f358281c1cfe6d6@vietanhschool.edu.vn
-DTSTAMP:20260925T062518Z
+UID:bgh_event_v22_202610030800_1@vietanhschool.edu.vn
+DTSTAMP:20261002T080000Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20261003T080000
 DTEND;TZID=Asia/Ho_Chi_Minh:20261003T113000
-SUMMARY:Đại Hội Ban Đại Diện Cha Mẹ Học Sinh Các Lớp Năm Học 2026 - 2027 (KH 291)
-LOCATION:Hội trường Tòa nhà Đa năng VA3
-DESCRIPTION:Phụ trách: Ban Giám hiệu, Trưởng Ban ĐD CMHS & Đội văn nghệ GV - HS\nĐối tượng: Ban Đại diện CMHS các lớp toàn bộ VA1 & VA3 (Tiết mục Giai điệu tự hào & Bài ca người thầy)\nNguồn kế hoạch: KH 291/KH-VA3 Văn nghệ Đại hội PH (https://drive.google.com/file/d/1mEBQUlBiXo9udzLanp1wdWhJ2gp4mRuW/view?usp=drivesdk)
+SUMMARY:Đại Hội Ban Đại Diện Cha Mẹ Học Sinh các Lớp Năm Học 2026 - 2027 (KH 291)
+LOCATION:Hội Trường Tòa Nhà Đa Năng VA3
+DESCRIPTION:Chủ trì/Phối hợp: Ban Giám Hiệu, Trưởng Ban Đd CMHS & Đội Văn Nghệ GV - HS\nNội dung: Ban Đại diện CMHS các lớp toàn bộ VA1 & VA3 (Báo cáo hoạt động, phương hướng năm học mới; biểu diễn nghệ thuật Giai điệu tự hào & Bài ca người thầy)\nNguồn: KH 291/KH-VA3 Văn nghệ Đại hội PH (https://drive.google.com/file/d/1mEBQUlBiXo9udzLanp1wdWhJ2gp4mRuW/view?usp=drivesdk)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bgh_4b45ea9a4dcb8825@vietanhschool.edu.vn
-DTSTAMP:20260925T062518Z
+UID:bgh_event_v22_202610030800_2@vietanhschool.edu.vn
+DTSTAMP:20261002T080000Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20261003T080000
 DTEND;TZID=Asia/Ho_Chi_Minh:20261003T103000
-SUMMARY:Workshop & Trải Nghiệm Văn Học Tháng 10: “Gen Z Với Văn Chương” (KH 285)
-LOCATION:Hội trường EMC & Nhà đa năng VA3
-DESCRIPTION:Phụ trách: Hiệu trưởng Đinh Thị Ngọc, Tổ trưởng Nguyễn Anh Nhật, Diễn giả Cô Hiền, Thầy Cao Nguyên\nĐối tượng: Toàn bộ HS Khối 6-12 đăng ký qua link Microsoft Forms (tối đa 100 HS/buổi)\nNguồn kế hoạch: KH 285/KH-VA3 Workshop Văn học (https://drive.google.com/file/d/1x2jgodiD2Jfrxo_4YTsVHOOJdJE46w7N/view?usp=drivesdk)
+SUMMARY:Workshop & Trải Nghiệm Văn Học Tháng 10: “Gen Z với Văn Chương” (KH 285)
+LOCATION:Hội Trường EMC & Nhà Đa Năng VA3
+DESCRIPTION:Chủ trì/Phối hợp: Hiệu Trưởng Đinh Thị Ngọc, Tổ Trưởng Nguyễn Anh Nhật, Diễn Giả Cô Hiền, Thầy Cao Nguyên\nNội dung: Toàn bộ HS Khối 6-12 đăng ký tham gia (Tọa đàm nghề văn, trò chơi dân gian, thư pháp, sáng tạo nội dung, MC học đường)\nNguồn: KH 285/KH-VA3 Workshop Văn học (https://drive.google.com/file/d/1x2jgodiD2Jfrxo_4YTsVHOOJdJE46w7N/view?usp=drivesdk)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bgh_87840c97480585bf@vietanhschool.edu.vn
-DTSTAMP:20260925T062518Z
+UID:bgh_event_v22_202610050730_3@vietanhschool.edu.vn
+DTSTAMP:20261002T080000Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20261005T073000
-DTEND;TZID=Asia/Ho_Chi_Minh:20261007T113000
-SUMMARY:Chương Trình Ngoại Khóa I: “Bước Ra Để Lớn Lên - Step Out. Grow Beyond” (KH 124, 303, 304, 311, 312, 314)
-LOCATION:Cơ sở VA1, VA3 & Khu vực ngoại khóa
-DESCRIPTION:Phụ trách: Ban Giám hiệu, GVCN, Khối trưởng, BP Quốc tế Ontario\nĐối tượng: Toàn thể HS Tiểu học VA1 (KH 124), HS VA3 (KH 304), Tiểu học VA3 gồm Mini Market 05/10 & 34 Sắc màu văn hóa 07/10 (KH 311, 312), và Hub 3 Ontario Gr 9, 12 Future Quest & Diorama (KH 314)\nNguồn kế hoạch: KH 124, 303, 304, 311, 312, 314 Ngoại khóa I (https://drive.google.com/file/d/1Lnj-Mx_Ac3mu8P9EDiLoBWOXD4nd_vYs/view?usp=drivesdk)
+DTEND;TZID=Asia/Ho_Chi_Minh:20261007T163000
+SUMMARY:Chương Trình Ngoại Khóa I: “Bước Ra để Lớn Lên - Step Out. Grow Beyond” (KH 124, 303, 304, 311, TB 36, TB 57)
+LOCATION:Toàn Bộ Cơ Sở VA1, VA3 & Tòa Nhà EMC
+DESCRIPTION:Chủ trì/Phối hợp: Ban Giám Hiệu, GVCN, Khối Trưởng Chuyên Môn, Bộ Phận Quốc Tế Ontario IEP\nNội dung: Khung chương trình Ngoại khóa I toàn trường: Ngày 1 (Học đường & Kỹ năng); Ngày 2 (Trường học an toàn, STEM, Xã hội & Dự án lớp); Ngày 3 (Ngày hội Văn hóa Việt Nam 34 sắc màu hội tụ & Khát vọng tuổi trẻ). Chi tiết từng hoạt động con được theo dõi tại Lịch Riêng Ngoại Khóa I.\nNguồn: KH 124, 303, 304, 311, TB 36, TB 57 (https://drive.google.com/file/d/1Lnj-Mx_Ac3mu8P9EDiLoBWOXD4nd_vYs/view?usp=drivesdk)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bgh_d8aeefdef01b4481@vietanhschool.edu.vn
-DTSTAMP:20260925T062518Z
+UID:bgh_event_v22_202610080730_4@vietanhschool.edu.vn
+DTSTAMP:20261002T080000Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20261008T073000
 DTEND;TZID=Asia/Ho_Chi_Minh:20261009T170000
-SUMMARY:Duyệt Sân Khấu Cuộc Thi Kịch Văn Học Lần 5 (Khối 9–12)
-LOCATION:Hội trường VA3
-DESCRIPTION:Phụ trách: BGK (Thầy Khang PHT, Thầy Tuấn, Thầy Nhật)\nĐối tượng: 19 đội thi kịch văn học các khối 9, 10, 11, 12, EMC\nNguồn kế hoạch: KH 263/KH-VA3 Lịch duyệt kịch (https://drive.google.com/file/d/14dgjR25EthpiNu2PmuOuu2lTX1yG6sp5/view?usp=drivesdk)
+SUMMARY:Duyệt Sân Khấu Cuộc Thi Kịch Văn Học lần 5 (Khối 9–12)
+LOCATION:Hội Trường VA3
+DESCRIPTION:Chủ trì/Phối hợp: BGK (Thầy Khang PHT, Thầy Tuấn, Thầy Nhật)\nNội dung: 19 đội thi kịch văn học các khối 9, 10, 11, 12 và CT Quốc tế EMC\nNguồn: KH 263/KH-VA3 Lịch duyệt kịch (https://drive.google.com/file/d/14dgjR25EthpiNu2PmuOuu2lTX1yG6sp5/view?usp=drivesdk)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bgh_4f5233f7ef91762a@vietanhschool.edu.vn
-DTSTAMP:20260925T062518Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20261010T063000
-DTEND;TZID=Asia/Ho_Chi_Minh:20261010T120000
-SUMMARY:Ngày Hội Thể Thao Học Đường Kết Nối PHHS - Học Sinh - Nhà Trường (KH 310)
-LOCATION:Sân bóng đá, Sân bóng rổ, Nhà đa năng, Hồ bơi VA3
-DESCRIPTION:Phụ trách: Trưởng ban Thầy Hoàng Văn Tuyến, Thầy Danh, Thầy Quang, Thầy Trí, Thầy Dũng\nĐối tượng: Toàn thể PHHS, Học sinh và CB-GV-NV (Thi đấu Kéo co, Bóng đá giao hữu PH-GV, Bơi lội gia đình, Bóng rổ 3x3, Teambuilding)\nNguồn kế hoạch: KH 310/KH-VA3 Hội thao PHHS (https://drive.google.com/file/d/1KrIMD03hhjRLeMdbUWRchC9FRegU_Fkb/view?usp=drivesdk)
+UID:bgh_event_v22_202610100645_5@vietanhschool.edu.vn
+DTSTAMP:20261002T080000Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20261010T064500
+DTEND;TZID=Asia/Ho_Chi_Minh:20261010T123000
+SUMMARY:Ngày Hội Thể Thao Học Đường - “Cùng Con Vận Động - Cùng Con Trưởng Thành” (KH 310, 329, 330, 335, 336)
+LOCATION:Sân Bóng Đá EMC, Sân Trường VA3, Nhà Đa Năng & Hồ Bơi
+DESCRIPTION:Chủ trì/Phối hợp: Trưởng Ban Thầy Hoàng Văn Tuyến, Thầy Trí, Thầy Quang, Thầy Danh, Ban Phụ Huynh\nNội dung: Lễ Khai mạc 06:45-07:30 (Sân bóng EMC), Thi đấu các môn: Bóng đá nam, Bóng chuyền nữ, Pickleball, Cầu lông, Chạy phối hợp gia đình (Family Run); Hoạt động Ba Mẹ cùng con vận động (Con là Huấn luyện viên, Đừng để bóng bay chiến thắng - KH 329); Biểu diễn Võ nhạc Vovinam (KH 335); Lễ Bế mạc & Khen thưởng 11:30-12:30 (Sân trường VA3 - KH 330)\nNguồn: KH 310, 329, 330, 335, 336 Hội thao (https://drive.google.com/file/d/1NtSqFEHA2xR6HaB1giirihXY2PRoGTGI/view?usp=drivesdk)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bgh_6ff6ed27c708e869@vietanhschool.edu.vn
-DTSTAMP:20260925T062518Z
+UID:bgh_event_v22_202610120800_6@vietanhschool.edu.vn
+DTSTAMP:20261002T080000Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20261012T080000
 DTEND;TZID=Asia/Ho_Chi_Minh:20261012T170000
-SUMMARY:Hạn Chót GVCN Đánh Giá & Phản Hồi Cam Kết 30 Ngày Cùng PHHS (KH 286)
-LOCATION:Từng phòng học & Hồ sơ lớp VA3
-DESCRIPTION:Phụ trách: 38 GVCN các lớp, PHHS\nĐối tượng: Rà soát biểu hiện học sinh sau 30 ngày đồng hành gia đình - nhà trường\nNguồn kế hoạch: KH 286/KH-VA3 Họp PHHS Đầu năm (https://drive.google.com/file/d/164JwisdqZMM2jWF7dq5kOU2S_uIj0OL5/view?usp=drivesdk)
+SUMMARY:Hạn Chót GVCN Đánh Giá & Phản Hồi Cam Kết 30 Ngày cùng PHHS (KH 286)
+LOCATION:Từng Phòng Học & Hồ Sơ Lớp VA3
+DESCRIPTION:Chủ trì/Phối hợp: 38 GVCN các Lớp, PHHS\nNội dung: Rà soát biểu hiện học sinh sau 30 ngày đồng hành gia đình - nhà trường\nNguồn: KH 286/KH-VA3 Họp PHHS Đầu năm (https://drive.google.com/file/d/164JwisdqZMM2jWF7dq5kOU2S_uIj0OL5/view?usp=drivesdk)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bgh_a3dd453ad83e3baa@vietanhschool.edu.vn
-DTSTAMP:20260925T062518Z
+UID:bgh_event_v22_202610150800_7@vietanhschool.edu.vn
+DTSTAMP:20261002T080000Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20261015T080000
 DTEND;TZID=Asia/Ho_Chi_Minh:20261015T113000
-SUMMARY:Khởi Động Dự Án Vũ Đạo Học Đường Mùa 2: Move As One (Cùng Một Nhịp)
-LOCATION:Hội trường & Sân trường VA1 & VA3
-DESCRIPTION:Phụ trách: Tổ Kỹ năng sống / Nghệ thuật, Cố vấn & Huấn luyện viên\nĐối tượng: Toàn thể Học sinh Tiểu học & Trung học (Tiếng đồng dao & Nhịp dân gian Việt Anh)\nNguồn kế hoạch: TB 50 & Cẩm nang 121/KH-VA (https://drive.google.com/file/d/1Uf5RZlfaHnnr2snJTh5mEu9NcVZr9-4L/view?usp=drivesdk)
+SUMMARY:Khởi Động Dự Án Vũ Đạo Học Đường Mùa 2: Move As One (cùng Một Nhịp)
+LOCATION:Hội Trường & Sân Trường VA1 & VA3
+DESCRIPTION:Chủ trì/Phối hợp: Tổ Kỹ Năng Sống / Nghệ Thuật, Cố Vấn & Huấn Luyện Viên\nNội dung: Toàn thể Học sinh Tiểu học & Trung học (Tiếng đồng dao & Nhịp dân gian Việt Anh)\nNguồn: TB 50 & Cẩm nang 121/KH-VA (https://drive.google.com/file/d/1Uf5RZlfaHnnr2snJTh5mEu9NcVZr9-4L/view?usp=drivesdk)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bgh_8f8652c2f897949b@vietanhschool.edu.vn
-DTSTAMP:20260925T062518Z
+UID:bgh_event_v22_202610220800_8@vietanhschool.edu.vn
+DTSTAMP:20261002T080000Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20261022T080000
 DTEND;TZID=Asia/Ho_Chi_Minh:20261025T170000
 SUMMARY:Kỳ Thi Olympic Tài Năng Hóa Học Trẻ Thế Giới (WYCTO) - Vòng Quốc Tế
 LOCATION:Ninh Bình
-DESCRIPTION:Phụ trách: Cô Trang (EMC) & Đoàn công tác\nĐối tượng: Đội tuyển Học sinh lọt Vòng Quốc tế\nNguồn kế hoạch: Kế hoạch Quốc tế WYCTO (https://drive.google.com/open?id=1lIURwqFNropA1bkUBZ_DoYEuDPnDqzSc&usp=drive_fs)
+DESCRIPTION:Chủ trì/Phối hợp: Cô Trang (EMC) & Đoàn Công Tác\nNội dung: Đội tuyển Học sinh lọt Vòng Quốc tế\nNguồn: Kế hoạch Quốc tế WYCTO (https://drive.google.com/open?id=1lIURwqFNropA1bkUBZ_DoYEuDPnDqzSc&usp=drive_fs)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bgh_cf83fae47ea4d619@vietanhschool.edu.vn
-DTSTAMP:20260925T062518Z
+UID:bgh_event_v22_202610250800_9@vietanhschool.edu.vn
+DTSTAMP:20261002T080000Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20261025T080000
 DTEND;TZID=Asia/Ho_Chi_Minh:20261025T113000
 SUMMARY:Khởi Động Dự Án Đôi Tay Kể Chuyện - Sân Khấu Rối (Stories In Our Hands)
-LOCATION:Cơ sở Việt Anh 1 (VA1)
-DESCRIPTION:Phụ trách: Nghệ sĩ Rối Đặng Trí Đức (đồng hành), BGH VA1 & GV Tiểu học\nĐối tượng: Toàn thể Học sinh Tiểu học VA1 xây dựng kịch rối tiếng Việt & tiếng Anh\nNguồn kế hoạch: TB 50/KH-VA3 Triển khai Dự án (https://drive.google.com/file/d/1OAI9VOB1N_PmEhhFiZXlal9tvAGMV8rv/view?usp=drivesdk)
+LOCATION:Cơ Sở Việt Anh 1 (VA1)
+DESCRIPTION:Chủ trì/Phối hợp: Nghệ Sĩ Rối Đặng Trí Đức (Đồng Hành), BGH VA1 & GV Tiểu Học\nNội dung: Toàn thể Học sinh Tiểu học VA1 xây dựng kịch rối tiếng Việt & tiếng Anh\nNguồn: TB 50/KH-VA3 Triển khai Dự án (https://drive.google.com/file/d/1OAI9VOB1N_PmEhhFiZXlal9tvAGMV8rv/view?usp=drivesdk)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bgh_d53061151e2e56e2@vietanhschool.edu.vn
-DTSTAMP:20260925T062518Z
+UID:bgh_event_v22_202610300800_10@vietanhschool.edu.vn
+DTSTAMP:20261002T080000Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20261030T080000
 DTEND;TZID=Asia/Ho_Chi_Minh:20261030T170000
-SUMMARY:Hạn Chót Lập Dự Toán & Báo Cáo Nhu Cầu Mua Sách Giáo Khoa (Sở GD&ĐT)
-LOCATION:Văn phòng Học vụ / Thư viện trường
-DESCRIPTION:Phụ trách: Bộ phận Học vụ, Thư viện, BGH\nĐối tượng: Học vụ tổng hợp số lượng báo cáo Sở GD&ĐT\nNguồn kế hoạch: CV 8650/SGDĐT-KHTC Triển khai SGK (https://drive.google.com/file/d/1NlnBqMOO_gtad8HBQWKg1PHJQlLAXYLH/view?usp=drivesdk)
+SUMMARY:Hạn Chót Lập Dự Toán & Báo Cáo Nhu Cầu Mua Sách Giáo Khoa (Sở GD&ĐT) (CV 8650 & CV 10209)
+LOCATION:Văn Phòng Học Vụ / Thư Viện Trường
+DESCRIPTION:Chủ trì/Phối hợp: Bộ Phận Học Vụ, Thư Viện, BGH (Cô Trúc)\nNội dung: Học vụ tổng hợp số lượng nhu cầu sách giáo khoa báo cáo Sở GD&ĐT theo Công văn 8650 và Công văn 10209/SGDĐT\nNguồn: CV 8650 & CV 10209/SGDĐT (https://drive.google.com/file/d/1NlnBqMOO_gtad8HBQWKg1PHJQlLAXYLH/view?usp=drivesdk)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bgh_dac92fa652dea50a@vietanhschool.edu.vn
-DTSTAMP:20260925T062518Z
+UID:bgh_event_v22_202611020715_11@vietanhschool.edu.vn
+DTSTAMP:20261002T080000Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20261102T071500
 DTEND;TZID=Asia/Ho_Chi_Minh:20261105T170000
-SUMMARY:Tuần Lễ Văn Học Lần Thứ Hai Năm Học 2026-2027: “Bước Ra Từ Trang Sách” (KH 299)
-LOCATION:Hội trường Đa năng, Sân trường & Các Zone triển lãm VA3
-DESCRIPTION:Phụ trách: Tổng Hiệu trưởng Đinh Thị Ngọc, Trưởng BP Trung học Huỳnh Văn Tuấn, Tổ trưởng Nguyễn Anh Nhật, Ban Dự án\nĐối tượng: Học sinh Khối 6-12 (02/11: Khởi động; 03/11: Đờn ca tài tử & Báo tường 3D; 04/11: Sắc màu văn học & Mô hình / Tiệm văn du kí; 05/11: Chung kết Sân khấu hóa 08 vở kịch & Trao giải 36,6 triệu đồng)\nNguồn kế hoạch: KH 299/KH-VA3 & QĐ 06/QĐ-VA3 (https://drive.google.com/file/d/1GCyjI_er4kIfU0TOnqAcgshkd8ak6CPy/view?usp=drivesdk)
+SUMMARY:Tuần Lễ Văn Học lần Thứ Hai Năm Học 2026-2027: “Bước Ra từ Trang Sách” (KH 299)
+LOCATION:Hội Trường Đa Năng, Sân Trường & các Zone Triển Lãm VA3
+DESCRIPTION:Chủ trì/Phối hợp: Tổng Hiệu Trưởng Đinh Thị Ngọc, Trưởng Bp Trung Học Huỳnh Văn Tuấn, Tổ Trưởng Nguyễn Anh Nhật, Ban Dự Án\nNội dung: Học sinh Khối 6-12 (02/11: Khởi động; 03/11: Đờn ca tài tử & Báo tường 3D; 04/11: Sắc màu văn học & Mô hình / Tiệm văn du kí; 05/11: Chung kết Sân khấu hóa 08 vở kịch & Trao giải 36,6 triệu đồng)\nNguồn: KH 299/KH-VA3 & QĐ 06/QĐ-VA3 (https://drive.google.com/file/d/1GCyjI_er4kIfU0TOnqAcgshkd8ak6CPy/view?usp=drivesdk)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bgh_a9b7eb8f519dc019@vietanhschool.edu.vn
-DTSTAMP:20260925T062518Z
+UID:bgh_event_v22_202611170800_12@vietanhschool.edu.vn
+DTSTAMP:20261002T080000Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20261117T080000
 DTEND;TZID=Asia/Ho_Chi_Minh:20261117T090000
 SUMMARY:Hạn Chót Hoàn Thành Bổ Sung Môn GDQP-AN
-LOCATION:Văn phòng Học vụ / VA3
-DESCRIPTION:Phụ trách: Thầy Trung, GVCN các lớp liên quan\nĐối tượng: Học sinh chuyển tổ hợp Khối 12\nNguồn kế hoạch: Kế hoạch Bổ sung GDQP-AN (https://drive.google.com/file/d/1BeJfPi2-nwhxDHAPlH8GTzf0Qb3POPZA/view?usp=sharing)
+LOCATION:Văn Phòng Học Vụ / VA3
+DESCRIPTION:Chủ trì/Phối hợp: Thầy Trung, GVCN các Lớp Liên Quan\nNội dung: Học sinh chuyển tổ hợp Khối 12\nNguồn: Kế hoạch Bổ sung GDQP-AN (https://drive.google.com/file/d/1BeJfPi2-nwhxDHAPlH8GTzf0Qb3POPZA/view?usp=sharing)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bgh_ad69460f80f61360@vietanhschool.edu.vn
-DTSTAMP:20260925T062518Z
+UID:bgh_event_v22_202701180800_13@vietanhschool.edu.vn
+DTSTAMP:20261002T080000Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20270118T080000
 DTEND;TZID=Asia/Ho_Chi_Minh:20270118T170000
-SUMMARY:Hạn Chót Kết Thúc Học Kỳ I (Theo Khung Thời Gian Năm Học Bộ GD&ĐT)
-LOCATION:Toàn trường (VA1, VA3, EMC)
-DESCRIPTION:Phụ trách: Ban Giám hiệu, Phòng Học vụ\nĐối tượng: Toàn thể Giáo viên và Học sinh các cấp\nNguồn kế hoạch: QĐ 2308/QĐ-BGDĐT Khung năm học (https://drive.google.com/file/d/1mzB1qR8y93Y2Gkkk-QfnOVSoZfnwD6D6/view?usp=drivesdk)
+SUMMARY:Hạn Chót Kết Thúc Học Kỳ I (theo Khung Thời Gian Năm Học Bộ GD&ĐT)
+LOCATION:Toàn Trường (VA1, VA3, EMC)
+DESCRIPTION:Chủ trì/Phối hợp: Ban Giám Hiệu, Phòng Học Vụ\nNội dung: Toàn thể Giáo viên và Học sinh các cấp\nNguồn: QĐ 2308/QĐ-BGDĐT Khung năm học (https://drive.google.com/file/d/1mzB1qR8y93Y2Gkkk-QfnOVSoZfnwD6D6/view?usp=drivesdk)
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
