@@ -1,9 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Hệ Thống Trường Việt Anh//Lịch Công Tác BGH v22//VI
+PRODID:-//Hệ Thống Trường Việt Anh//Lịch Công Tác BGH v29//VI
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Lịch Công Tác BGH (Từ 03/10/2026)
+X-WR-CALNAME:Lịch Công Tác BGH (Từ 27/10/2026)
 X-WR-TIMEZONE:Asia/Ho_Chi_Minh
 BEGIN:VTIMEZONE
 TZID:Asia/Ho_Chi_Minh
@@ -16,133 +16,313 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:bgh_event_v22_202610030800_1@vietanhschool.edu.vn
-DTSTAMP:20261002T080000Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20261003T080000
-DTEND;TZID=Asia/Ho_Chi_Minh:20261003T113000
-SUMMARY:Đại Hội Ban Đại Diện Cha Mẹ Học Sinh các Lớp Năm Học 2026 - 2027 (KH 291)
-LOCATION:Hội Trường Tòa Nhà Đa Năng VA3
-DESCRIPTION:Chủ trì/Phối hợp: Ban Giám Hiệu, Trưởng Ban Đd CMHS & Đội Văn Nghệ GV - HS\nNội dung: Ban Đại diện CMHS các lớp toàn bộ VA1 & VA3 (Báo cáo hoạt động, phương hướng năm học mới; biểu diễn nghệ thuật Giai điệu tự hào & Bài ca người thầy)\nNguồn: KH 291/KH-VA3 Văn nghệ Đại hội PH (https://drive.google.com/file/d/1mEBQUlBiXo9udzLanp1wdWhJ2gp4mRuW/view?usp=drivesdk)
+UID:b3577f66eed10042c92f321f1956b777@vietanhschool.edu.vn
+DTSTAMP:20261026T091000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261105
+SUMMARY:Mở Đăng Ký & Truyền Thông Dự Án MC Học Đường “Én Vàng Việt Anh” Năm Học 2026 - 2027 (TB 38 & TB 58)
+LOCATION:Cơ Sở VA1 (Tiểu Học) & Cơ Sở VA3 (Khối 6-12)
+DESCRIPTION:Thời gian theo văn bản: Từ ngày 26/10/2026 -> Đến ngày 04/11/2026 (Chốt DS VA3: 30/10; VA1: 31/10)\nChủ trì/Phối hợp: Thầy Vũ Minh Khang (VA3), Cô Nguyễn Thị Thế Đoan (VA1), Cô Tuyết Ái, Cô Kim Loan, PR, GVCN\nNội dung: GVCN giới thiệu dự án Én Vàng Việt Anh (Cố vấn: Nhà báo Anh Đức) tại lớp và gửi thông tin đến PHHS; PR đăng poster và mã QR đăng ký. Chốt danh sách học sinh đăng ký tại VA3 ngày 30/10 và tại VA1 ngày 31/10/2026.\nNguồn: TB 38/TB-VA & TB 58/TB-VA3 Én Vàng (https://drive.google.com/file/d/1ldMyIeNeA5DLsdgThd0u0sGD4G5pJLH3/view?usp=drivesdk)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bgh_event_v22_202610030800_2@vietanhschool.edu.vn
-DTSTAMP:20261002T080000Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20261003T080000
-DTEND;TZID=Asia/Ho_Chi_Minh:20261003T103000
-SUMMARY:Workshop & Trải Nghiệm Văn Học Tháng 10: “Gen Z với Văn Chương” (KH 285)
-LOCATION:Hội Trường EMC & Nhà Đa Năng VA3
-DESCRIPTION:Chủ trì/Phối hợp: Hiệu Trưởng Đinh Thị Ngọc, Tổ Trưởng Nguyễn Anh Nhật, Diễn Giả Cô Hiền, Thầy Cao Nguyên\nNội dung: Toàn bộ HS Khối 6-12 đăng ký tham gia (Tọa đàm nghề văn, trò chơi dân gian, thư pháp, sáng tạo nội dung, MC học đường)\nNguồn: KH 285/KH-VA3 Workshop Văn học (https://drive.google.com/file/d/1x2jgodiD2Jfrxo_4YTsVHOOJdJE46w7N/view?usp=drivesdk)
+UID:df2f04cc3d1a7f37a758054e17a69129@vietanhschool.edu.vn
+DTSTAMP:20261026T091000Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20261027T073000
+DTEND;TZID=Asia/Ho_Chi_Minh:20261027T100000
+SUMMARY:Quay Phim Giới Thiệu Chương Trình Tuần Lễ Văn Học Lần Thứ Hai Năm 2026 (KH 367)
+LOCATION:Sân Trường EMC, Thư Viện VA3 & Hội Trường VA3
+DESCRIPTION:Thời gian theo văn bản: 27/10/2026 07:30 -> 27/10/2026 10:00\nChủ trì/Phối hợp: BP Truyền Thông & HTTT, Tổ Ngữ Văn (Thầy Nhật), GVCN các Lớp Liên Quan\nNội dung: Ghi hình truyền thông Tuần lễ Văn học lần 2: 07:30-10:00 tại Sân trường EMC (MC Minh Phước 10A3, Bảo Nghi 12C5 và nhóm HS Khối 6 mặc trang phục nhân vật catwalk); 08:00-08:30 tại Sân trường EMC (nhóm HS Khối 7 chuẩn bị báo tường); 09:00-09:30 tại Thư viện VA3 (nhóm HS Khối 8 chuẩn bị mô hình & nhóm HS Khối 9 chuẩn bị Tiệm văn du kí); 09:30-10:00 tại Hội trường VA3.\nNguồn: KH 367/KH-VA3 Quay phim Tuần lễ Văn học (https://drive.google.com/file/d/1SFs_gBDgmnUnk8_WbaoNEye97Yy1WB28/view?usp=drivesdk)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bgh_event_v22_202610050730_3@vietanhschool.edu.vn
-DTSTAMP:20261002T080000Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20261005T073000
-DTEND;TZID=Asia/Ho_Chi_Minh:20261007T163000
-SUMMARY:Chương Trình Ngoại Khóa I: “Bước Ra để Lớn Lên - Step Out. Grow Beyond” (KH 124, 303, 304, 311, TB 36, TB 57)
-LOCATION:Toàn Bộ Cơ Sở VA1, VA3 & Tòa Nhà EMC
-DESCRIPTION:Chủ trì/Phối hợp: Ban Giám Hiệu, GVCN, Khối Trưởng Chuyên Môn, Bộ Phận Quốc Tế Ontario IEP\nNội dung: Khung chương trình Ngoại khóa I toàn trường: Ngày 1 (Học đường & Kỹ năng); Ngày 2 (Trường học an toàn, STEM, Xã hội & Dự án lớp); Ngày 3 (Ngày hội Văn hóa Việt Nam 34 sắc màu hội tụ & Khát vọng tuổi trẻ). Chi tiết từng hoạt động con được theo dõi tại Lịch Riêng Ngoại Khóa I.\nNguồn: KH 124, 303, 304, 311, TB 36, TB 57 (https://drive.google.com/file/d/1Lnj-Mx_Ac3mu8P9EDiLoBWOXD4nd_vYs/view?usp=drivesdk)
+UID:d253006612c67fb34ad759bf0cb21ad7@vietanhschool.edu.vn
+DTSTAMP:20261026T091000Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20261027T090000
+DTEND;TZID=Asia/Ho_Chi_Minh:20261027T110000
+SUMMARY:Đón Tiếp & Giao Lưu Học Sinh Quốc Tế Trường Broadrick Secondary School, Singapore (KH 357)
+LOCATION:Film Room, Bếp Thực Nghiệm & Toà đa năng
+DESCRIPTION:Thời gian theo văn bản: 27/10/2026 09:00 -> 27/10/2026 11:00\nChủ trì/Phối hợp: Thầy Khang (Phó Hiệu Trưởng), Bộ Phận Điều Phối Quốc Tế, 51 HS Gr 9-12 Ontario\nNội dung: Giao lưu văn hóa Việt Nam - Singapore cùng 35 đại biểu (30 HS Grade 9 và 05 GV) trường Broadrick Secondary School. Khung giờ chính tại General Information (trang 1): 09:00 - 11:00 (09:00-09:15 Đón đoàn & Ice-breaking; 09:15-09:45 Campus Tour; 09:45-10:30 Chia sẻ văn hóa Singapore; 10:30-11:00 Chia sẻ văn hóa Việt Nam). Bảng Detailed Program (trang 2-3) ghi thêm: 11:00-11:10 Văn nghệ; 11:10-11:15 Bế mạc; 11:30-13:20 Đoàn ăn trưa tại Bếp thực nghiệm; 13:20-13:30 Tiễn đoàn.\nNguồn: KH 357/KH-VA3 Giao lưu Singapore (https://drive.google.com/file/d/1z3jgi4L-KauZBob9lFvRLAXmJMAB1XQV/view?usp=drivesdk)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bgh_event_v22_202610080730_4@vietanhschool.edu.vn
-DTSTAMP:20261002T080000Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20261008T073000
-DTEND;TZID=Asia/Ho_Chi_Minh:20261009T170000
-SUMMARY:Duyệt Sân Khấu Cuộc Thi Kịch Văn Học lần 5 (Khối 9–12)
-LOCATION:Hội Trường VA3
-DESCRIPTION:Chủ trì/Phối hợp: BGK (Thầy Khang PHT, Thầy Tuấn, Thầy Nhật)\nNội dung: 19 đội thi kịch văn học các khối 9, 10, 11, 12 và CT Quốc tế EMC\nNguồn: KH 263/KH-VA3 Lịch duyệt kịch (https://drive.google.com/file/d/14dgjR25EthpiNu2PmuOuu2lTX1yG6sp5/view?usp=drivesdk)
+UID:20853f4db2228f0ac6cf24db116c6dfc@vietanhschool.edu.vn
+DTSTAMP:20261026T091000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Chương Trình “Em Yêu Khoa Học” – Thử Thách Đua Xe Phản Lực Chạy Bằng Baking Soda Khối 8 (KH 343)
+LOCATION:Hội Trường EMC & Đường Đua Sân Trường VA3
+DESCRIPTION:Thời gian theo văn bản: Chiều 27/10/2026 (Tiết 7 & Tiết 8)\nChủ trì/Phối hợp: Tổ Tự Nhiên VA3 (Thầy Duy, Cô Duyên, Thầy Phương, Cô Dân, Thầy Hào)\nNội dung: 100% học sinh 10 lớp Khối 8 (8C1-8C9 và 8EMC) chia nhóm thi đấu luân phiên 2 ca trong Tiết 7 & Tiết 8 chiều Thứ Ba 27/10/2026 (Set-up hoàn thành trước 13:00): Đua xe 3 làn đo thành tích chính xác đến 1 cm tại sân trường và Thử thách kiến thức Quizizz 20 câu + bình chọn 10 clip tiêu biểu tại Hội trường EMC.\nNguồn: KH 343/KH-VA3 Em Yêu Khoa Học (https://drive.google.com/file/d/1dtV5u24SfdW45QtTo1_uwJM-K3SSeAbq/view?usp=drivesdk)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bgh_event_v22_202610100645_5@vietanhschool.edu.vn
-DTSTAMP:20261002T080000Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20261010T064500
-DTEND;TZID=Asia/Ho_Chi_Minh:20261010T123000
-SUMMARY:Ngày Hội Thể Thao Học Đường - “Cùng Con Vận Động - Cùng Con Trưởng Thành” (KH 310, 329, 330, 335, 336)
-LOCATION:Sân Bóng Đá EMC, Sân Trường VA3, Nhà Đa Năng & Hồ Bơi
-DESCRIPTION:Chủ trì/Phối hợp: Trưởng Ban Thầy Hoàng Văn Tuyến, Thầy Trí, Thầy Quang, Thầy Danh, Ban Phụ Huynh\nNội dung: Lễ Khai mạc 06:45-07:30 (Sân bóng EMC), Thi đấu các môn: Bóng đá nam, Bóng chuyền nữ, Pickleball, Cầu lông, Chạy phối hợp gia đình (Family Run); Hoạt động Ba Mẹ cùng con vận động (Con là Huấn luyện viên, Đừng để bóng bay chiến thắng - KH 329); Biểu diễn Võ nhạc Vovinam (KH 335); Lễ Bế mạc & Khen thưởng 11:30-12:30 (Sân trường VA3 - KH 330)\nNguồn: KH 310, 329, 330, 335, 336 Hội thao (https://drive.google.com/file/d/1NtSqFEHA2xR6HaB1giirihXY2PRoGTGI/view?usp=drivesdk)
+UID:d46583bb1ba0b840a4b614f3b03d6dd0@vietanhschool.edu.vn
+DTSTAMP:20261026T091000Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20261030T101000
+DTEND;TZID=Asia/Ho_Chi_Minh:20261030T114500
+SUMMARY:Hội Nghị Mô Phỏng Liên Hợp Quốc Mini MUN: “Global Voices, Global Action 2026” (KH 345)
+LOCATION:Hội Trường Tòa Nhà EMC-VA3
+DESCRIPTION:Thời gian theo văn bản: 30/10/2026 10:10 -> 30/10/2026 11:45\nChủ trì/Phối hợp: Ms. Dahlia (Chủ Tọa), Ban Giám Hiệu, Cố Vấn Học Thuật Ontario, Học Sinh Gr 6, 7, 8\nNội dung: Học sinh Grade 8 đóng vai Đại biểu Liên Hợp Quốc đại diện 5 quốc gia (Việt Nam, Canada, Philippines, Nga, Turkmenistan): Check-in (10:10-10:20), Khai mạc (10:20-10:30), Điểm danh & Tuyên bố khai mạc (10:30-10:40), Diễu hành & Trình bày lập trường quốc gia (10:40-11:30), Thảo luận Nghị quyết & Trao giải (11:30-11:45).\nNguồn: KH 345/KH-VA3 Mini MUN (https://drive.google.com/file/d/1Fyv4zere7hPAxeuZffWYiWOOP5tZmNRu/view?usp=drivesdk)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bgh_event_v22_202610120800_6@vietanhschool.edu.vn
-DTSTAMP:20261002T080000Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20261012T080000
-DTEND;TZID=Asia/Ho_Chi_Minh:20261012T170000
-SUMMARY:Hạn Chót GVCN Đánh Giá & Phản Hồi Cam Kết 30 Ngày cùng PHHS (KH 286)
-LOCATION:Từng Phòng Học & Hồ Sơ Lớp VA3
-DESCRIPTION:Chủ trì/Phối hợp: 38 GVCN các Lớp, PHHS\nNội dung: Rà soát biểu hiện học sinh sau 30 ngày đồng hành gia đình - nhà trường\nNguồn: KH 286/KH-VA3 Họp PHHS Đầu năm (https://drive.google.com/file/d/164JwisdqZMM2jWF7dq5kOU2S_uIj0OL5/view?usp=drivesdk)
+UID:edb62c882e24ec983711c178871d3f7e@vietanhschool.edu.vn
+DTSTAMP:20261026T091000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Hạn Chót Nộp Hồ Sơ Dự Án “Em Yêu Khoa Học” Khối 8 (KH 343)
+LOCATION:Phòng Bộ Môn Khoa Học Tự Nhiên VA3
+DESCRIPTION:Thời gian theo văn bản: Trước 17:00 ngày 30/10/2026 -> 30/10/2026 17:00\nChủ trì/Phối hợp: GV KHTN Khối 8, Thầy Duy, Học Sinh các Nhóm Khối 8\nNội dung: Các nhóm học sinh Khối 8 hoàn thiện và nộp hồ sơ dự án (gồm bìa, bản thiết kế phiên bản 1 & cải tiến, nhật ký ít nhất 03 lần thử, ảnh tư liệu, kết quả thi đấu 27/10 và phiếu phản tư) cho GV KHTN trễ nhất 17:00 ngày 30/10/2026 để chấm giải Bậc Thầy Nghiên Cứu.\nNguồn: KH 343/KH-VA3 Em Yêu Khoa Học (https://drive.google.com/file/d/1dtV5u24SfdW45QtTo1_uwJM-K3SSeAbq/view?usp=drivesdk)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bgh_event_v22_202610150800_7@vietanhschool.edu.vn
-DTSTAMP:20261002T080000Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20261015T080000
-DTEND;TZID=Asia/Ho_Chi_Minh:20261015T113000
-SUMMARY:Khởi Động Dự Án Vũ Đạo Học Đường Mùa 2: Move As One (cùng Một Nhịp)
-LOCATION:Hội Trường & Sân Trường VA1 & VA3
-DESCRIPTION:Chủ trì/Phối hợp: Tổ Kỹ Năng Sống / Nghệ Thuật, Cố Vấn & Huấn Luyện Viên\nNội dung: Toàn thể Học sinh Tiểu học & Trung học (Tiếng đồng dao & Nhịp dân gian Việt Anh)\nNguồn: TB 50 & Cẩm nang 121/KH-VA (https://drive.google.com/file/d/1Uf5RZlfaHnnr2snJTh5mEu9NcVZr9-4L/view?usp=drivesdk)
+UID:abf15fcc532a815cb2e21f92548dc708@vietanhschool.edu.vn
+DTSTAMP:20261026T091000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Hạn Chót Lập Dự Toán & Báo Cáo Nhu Cầu Mua Sách Giáo Khoa (CV 8650, CV 10209 & CV 10298)
+LOCATION:Học Vụ
+DESCRIPTION:Thời gian theo văn bản: Trước ngày 30/10/2026\nChủ trì/Phối hợp: Bộ Phận Học Vụ, Thư Viện, BGH (Cô Trúc)\nNội dung: Học vụ và Thư viện rà soát, tổng hợp danh mục và số lượng sách giáo khoa cần trang bị bổ sung báo cáo Sở GD&ĐT trước ngày 30/10 theo Công văn 8650/SGDĐT-KHTC, Công văn 10209 và Công văn 10298.\nNguồn: CV 8650, CV 10209 & CV 10298 (https://drive.google.com/file/d/1NlnBqMOO_gtad8HBQWKg1PHJQlLAXYLH/view?usp=drivesdk)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bgh_event_v22_202610220800_8@vietanhschool.edu.vn
-DTSTAMP:20261002T080000Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20261022T080000
-DTEND;TZID=Asia/Ho_Chi_Minh:20261025T170000
-SUMMARY:Kỳ Thi Olympic Tài Năng Hóa Học Trẻ Thế Giới (WYCTO) - Vòng Quốc Tế
-LOCATION:Ninh Bình
-DESCRIPTION:Chủ trì/Phối hợp: Cô Trang (EMC) & Đoàn Công Tác\nNội dung: Đội tuyển Học sinh lọt Vòng Quốc tế\nNguồn: Kế hoạch Quốc tế WYCTO (https://drive.google.com/open?id=1lIURwqFNropA1bkUBZ_DoYEuDPnDqzSc&usp=drive_fs)
+UID:40a4894b1157ab3ecc36587a44d83806@vietanhschool.edu.vn
+DTSTAMP:20261026T091000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Hạn Chót Đăng Ký Bài Dạy Lesson Study, Chốt Sơ Đồ Tuần Lễ Văn Học & Đăng Ký Tiết Mục Gala 20/11 (KH 339, 146, 299)
+LOCATION:Văn Phòng Chuyên Môn VA1, VA3 & Trực Tuyến
+DESCRIPTION:Thời gian theo văn bản: Trước ngày 30/10/2026\nChủ trì/Phối hợp: Tổ Trưởng Chuyên Môn, Khối Trưởng, Nhóm Trưởng Lesson Study, Thầy Tuấn (Văn Nghệ Gala), BTC Tuần Lễ Văn Học\nNội dung: Hạn chót trước 30/10 các nhóm chuyên môn nộp phiếu đăng ký bài dạy Nghiên cứu bài học (Lesson Study) và đăng ký tiết mục Gala 20/11 (KH 339 & KH 146); đồng thời BTC Tuần lễ Văn học chốt sơ đồ khu vực Zone 1-4, lịch chấm và nhân sự trực (KH 299).\nNguồn: KH 339, KH 146 & KH 299 (https://drive.google.com/file/d/1fDyfV8-ZFYWfXhJfrdFONWrYcnVJ6yXA/view?usp=drivesdk)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bgh_event_v22_202610250800_9@vietanhschool.edu.vn
-DTSTAMP:20261002T080000Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20261025T080000
-DTEND;TZID=Asia/Ho_Chi_Minh:20261025T113000
-SUMMARY:Khởi Động Dự Án Đôi Tay Kể Chuyện - Sân Khấu Rối (Stories In Our Hands)
-LOCATION:Cơ Sở Việt Anh 1 (VA1)
-DESCRIPTION:Chủ trì/Phối hợp: Nghệ Sĩ Rối Đặng Trí Đức (Đồng Hành), BGH VA1 & GV Tiểu Học\nNội dung: Toàn thể Học sinh Tiểu học VA1 xây dựng kịch rối tiếng Việt & tiếng Anh\nNguồn: TB 50/KH-VA3 Triển khai Dự án (https://drive.google.com/file/d/1OAI9VOB1N_PmEhhFiZXlal9tvAGMV8rv/view?usp=drivesdk)
+UID:8fbe370723b47e21aff3f373a72ff0d9@vietanhschool.edu.vn
+DTSTAMP:20261026T091000Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20261031T073000
+DTEND;TZID=Asia/Ho_Chi_Minh:20261031T111000
+SUMMARY:Chụp Hình Tri Ân Ngày Nhà Giáo Việt Nam 20/11 tại Cơ Sở VA3 (KH 340)
+LOCATION:Hành Lang Phía Sau Phòng IT & Sân Đài Phun Nước / Thư Viện Lầu 2 EMC - VA3
+DESCRIPTION:Thời gian theo văn bản: 31/10/2026 07:30 -> 31/10/2026 11:10\nChủ trì/Phối hợp: Bộ Phận PR (Thầy Phúc), Tổ Trưởng Chuyên Môn VA3\nNội dung: Chụp ảnh cá nhân và tập thể tổ chào mừng 20/11: Tổ Tiếng Anh (07:30-08:00), Tổ Toán (08:00-08:30), Tổ Tự Nhiên (08:30-09:00), Tổ Ngữ văn (09:00-09:30), Tổ Xã hội 1 (09:30-10:00), Tổ Xã hội 2 (10:00-10:30), Tổ Tin học (10:30-10:50), Tổ Tiểu học VA3 (10:50-11:10). Trang phục: Áo dài mẫu mới của trường.\nNguồn: KH 340/KH-VA3 Chụp hình 20/11 (https://drive.google.com/file/d/15ZFHX4lgw0ylMkBbwxp01UW7j9TukNtj/view?usp=drivesdk)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bgh_event_v22_202610300800_10@vietanhschool.edu.vn
-DTSTAMP:20261002T080000Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20261030T080000
-DTEND;TZID=Asia/Ho_Chi_Minh:20261030T170000
-SUMMARY:Hạn Chót Lập Dự Toán & Báo Cáo Nhu Cầu Mua Sách Giáo Khoa (Sở GD&ĐT) (CV 8650 & CV 10209)
-LOCATION:Văn Phòng Học Vụ / Thư Viện Trường
-DESCRIPTION:Chủ trì/Phối hợp: Bộ Phận Học Vụ, Thư Viện, BGH (Cô Trúc)\nNội dung: Học vụ tổng hợp số lượng nhu cầu sách giáo khoa báo cáo Sở GD&ĐT theo Công văn 8650 và Công văn 10209/SGDĐT\nNguồn: CV 8650 & CV 10209/SGDĐT (https://drive.google.com/file/d/1NlnBqMOO_gtad8HBQWKg1PHJQlLAXYLH/view?usp=drivesdk)
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:bgh_event_v22_202611020715_11@vietanhschool.edu.vn
-DTSTAMP:20261002T080000Z
+UID:d121d52f2fa990e52db391cf971eb5b8@vietanhschool.edu.vn
+DTSTAMP:20261026T091000Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20261102T071500
 DTEND;TZID=Asia/Ho_Chi_Minh:20261105T170000
 SUMMARY:Tuần Lễ Văn Học lần Thứ Hai Năm Học 2026-2027: “Bước Ra từ Trang Sách” (KH 299)
 LOCATION:Hội Trường Đa Năng, Sân Trường & các Zone Triển Lãm VA3
-DESCRIPTION:Chủ trì/Phối hợp: Tổng Hiệu Trưởng Đinh Thị Ngọc, Trưởng Bp Trung Học Huỳnh Văn Tuấn, Tổ Trưởng Nguyễn Anh Nhật, Ban Dự Án\nNội dung: Học sinh Khối 6-12 (02/11: Khởi động; 03/11: Đờn ca tài tử & Báo tường 3D; 04/11: Sắc màu văn học & Mô hình / Tiệm văn du kí; 05/11: Chung kết Sân khấu hóa 08 vở kịch & Trao giải 36,6 triệu đồng)\nNguồn: KH 299/KH-VA3 & QĐ 06/QĐ-VA3 (https://drive.google.com/file/d/1GCyjI_er4kIfU0TOnqAcgshkd8ak6CPy/view?usp=drivesdk)
+DESCRIPTION:Thời gian theo văn bản: 02/11/2026 07:15 -> 05/11/2026 17:00\nChủ trì/Phối hợp: Tổng Hiệu Trưởng Đinh Thị Ngọc, Trưởng BP Trung Học Huỳnh Văn Tuấn, Tổ Trưởng Nguyễn Anh Nhật, Ban Dự Án\nNội dung: Học sinh Khối 6-12: 02/11 (07:15-08:00: Khởi động Tuần lễ Văn học & Trao giải đua xe Em Yêu Khoa Học K8); 03/11 (08:55-11:00: Giao lưu Đờn ca tài tử K10-11; 13:30-16:15: Chấm Báo tường 3D K7); 04/11 (07:30-11:30: Sắc màu Văn học K6; 13:30-16:15: Chấm Mô hình K8 & Tiệm Văn du kí K9-11); 05/11 (07:00-17:00: Chung kết Sân khấu Văn học & Tổng kết trao giải).\nNguồn: KH 299/KH-VA3 & QĐ 06/QĐ-VA3 (https://drive.google.com/file/d/1GCyjI_er4kIfU0TOnqAcgshkd8ak6CPy/view?usp=drivesdk)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bgh_event_v22_202611170800_12@vietanhschool.edu.vn
-DTSTAMP:20261002T080000Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20261117T080000
-DTEND;TZID=Asia/Ho_Chi_Minh:20261117T090000
-SUMMARY:Hạn Chót Hoàn Thành Bổ Sung Môn GDQP-AN
-LOCATION:Văn Phòng Học Vụ / VA3
-DESCRIPTION:Chủ trì/Phối hợp: Thầy Trung, GVCN các Lớp Liên Quan\nNội dung: Học sinh chuyển tổ hợp Khối 12\nNguồn: Kế hoạch Bổ sung GDQP-AN (https://drive.google.com/file/d/1BeJfPi2-nwhxDHAPlH8GTzf0Qb3POPZA/view?usp=sharing)
+UID:d00a89cee24cf2e54e54874d23884116@vietanhschool.edu.vn
+DTSTAMP:20261026T091000Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20261105T070000
+DTEND;TZID=Asia/Ho_Chi_Minh:20261105T170000
+SUMMARY:Chung Kết Sân Khấu Hóa 08 Vở Kịch Văn Học & Tổng Kết Trao Giải (KH 299)
+LOCATION:Hội Trường Tòa Nhà Đa Năng VA3
+DESCRIPTION:Thời gian theo văn bản: 05/11/2026 07:00 (Sáng: 07:00-11:00 | Chiều: 13:00-17:00) -> 05/11/2026 17:00\nChủ trì/Phối hợp: Ban Giám Hiệu, Ban Giám Khảo, Tổ Ngữ Văn, GVCN các Lớp Dự Thi\nNội dung: Chung kết 08 vở kịch xuất sắc nhất toàn trường: Phiên sáng (07:00-07:30 chuẩn bị, 07:45-08:00 khai mạc, 08:00-10:10 biểu diễn Đội 1-4, 10:10-11:00 giao lưu BGK & kết thúc phiên sáng); Phiên chiều (13:00-13:30 chuẩn bị, 13:30-15:40 biểu diễn Đội 5-8, 15:40-16:00 văn nghệ, 16:00-16:30 Tổng kết & trao giải 36,6 triệu đồng, 16:30-17:00 chụp ảnh & bàn giao).\nNguồn: KH 299/KH-VA3 Kịch Tuần lễ Văn học (https://drive.google.com/file/d/1GCyjI_er4kIfU0TOnqAcgshkd8ak6CPy/view?usp=drivesdk)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bgh_event_v22_202701180800_13@vietanhschool.edu.vn
-DTSTAMP:20261002T080000Z
-DTSTART;TZID=Asia/Ho_Chi_Minh:20270118T080000
-DTEND;TZID=Asia/Ho_Chi_Minh:20270118T170000
-SUMMARY:Hạn Chót Kết Thúc Học Kỳ I (theo Khung Thời Gian Năm Học Bộ GD&ĐT)
+UID:541ebbb1c6b71f0d56e310e50a5fbeb5@vietanhschool.edu.vn
+DTSTAMP:20261026T091000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Vòng Casting Tuyển Chọn Học Sinh Dự Án “Én Vàng Việt Anh” tại Cơ Sở VA1 & VA3 (TB 38 & TB 58)
+LOCATION:Hội Trường VA1 & Hội Trường Tòa Nhà Đa Năng VA3
+DESCRIPTION:Thời gian theo văn bản: Trong ngày 05/11/2026\nChủ trì/Phối hợp: Cô Thế Đoan, Cô Kim Loan (VA1); Thầy Vũ Minh Khang, Cô Tuyết Ái, Thầy Giang (VA3); Bộ Phận PR\nNội dung: Thí sinh trình bày trực tiếp với micro: Tiểu học VA1 (5 phút: giới thiệu bản thân 2p, kể chuyện ngắn 2p, đọc văn bản 1p); THCS VA3 (kể câu chuyện đáng nhớ ở trường trong 2 phút); THPT VA3 (kể câu chuyện có mở đầu thu hút, chi tiết nổi bật và cảm xúc trong 3 phút). Khung giờ cụ thể do Cô Thế Đoan và Thầy Khang thống nhất để tránh trùng lịch kiểm tra.\nNguồn: TB 38/TB-VA & TB 58/TB-VA3 Én Vàng (https://drive.google.com/file/d/1_P9AJQqXAcM51ibTXjWyHJ3YTJLjSe_l/view?usp=drivesdk)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:58ab9aedbc77b5d976c9a1e99c4b662a@vietanhschool.edu.vn
+DTSTAMP:20261026T091000Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20261109T075500
+DTEND;TZID=Asia/Ho_Chi_Minh:20261118T104000
+SUMMARY:Chuỗi Trải Nghiệm STEM tại ĐH Quốc Tế Miền Đông (EIU FabLab) Tháng 11 cho Khối 10 & Khối 12 (KH 361)
+LOCATION:Trung Tâm FabLab - Trường ĐH Quốc Tế Miền Đông (EIU)
+DESCRIPTION:Thời gian theo văn bản: 09/11/2026 07:55 (Mỗi buổi sáng 07:55 - 10:40) -> 18/11/2026 10:40\nChủ trì/Phối hợp: Thầy Lê Duy An (Lập KH), Thầy Khanh, Cô Lam, Thầy Tuấn, Thầy Huân, GVNN EMC\nNội dung: Trải nghiệm STEM buổi sáng (07:55 đón xe tại VA3, 08:00-08:15 xuất phát, 08:30-10:30 thực hành tại EIU FabLab, 10:40 kết thúc): Khối 10 chủ đề 'Kết nối dữ liệu thông minh - IoT & Cloud' (09/11: 10A3; 10/11: 10A4; 11/11: 10A6; 12/11: 10A2 & 10EMC; 13/11: 10A1; 16/11: 10A5). Khối 12 chủ đề 'Thiết kế Website UI/UX' (17/11: 12C2; 18/11: 12C1 & 12EMC).\nNguồn: KH 361/KH-VA3 STEM EIU K10 & K12 (https://drive.google.com/file/d/1kJgZC2R4CyBtqipMXJDAsGABHvmjObrg/view?usp=drivesdk)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3c8ce73084956e16660a9c54408c3d24@vietanhschool.edu.vn
+DTSTAMP:20261026T091000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Hạn Chót Nộp Hồ Sơ Nghiên Cứu Bài Học & Bài Viết Tập San “Tri Ân và Tiếp Nối” (KH 339 & KH 146)
+LOCATION:Văn Phòng BGH VA1 & VA3
+DESCRIPTION:Thời gian theo văn bản: Trước 16:00 ngày 13/11/2026 -> 13/11/2026 16:00\nChủ trì/Phối hợp: Cô Thủy, Cô Sao Mai, Tổ Văn VA3, Nhóm Trưởng Lesson Study\nNội dung: Hạn chót trước 16:00 ngày 13/11/2026 các nhóm chuyên môn nộp trọn bộ hồ sơ Nghiên cứu bài học (phiếu đăng ký, kế hoạch bài dạy, 3-5 minh chứng có mã, bản tự nhìn lại, nội dung quầy) và bài viết Tập san; các nhóm tại VA1 bốc thăm vị trí quầy triển lãm trong ngày 13/11.\nNguồn: KH 339 & KH 146 Hoạt động T11 (https://drive.google.com/file/d/1PR4R3omalO_w0WTtssRLhABB6py-VFZV/view?usp=drivesdk)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:273abd9c6985f68c65dc0ef65a33a5be@vietanhschool.edu.vn
+DTSTAMP:20261026T091000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Lễ Kỷ Niệm 10 Năm Thành Lập Trường Việt Anh Cơ Sở 2 (VA2) (KH 352)
+LOCATION:Cơ Sở Việt Anh 2 (VA2)
+DESCRIPTION:Thời gian theo văn bản: Trong ngày 14/11/2026\nChủ trì/Phối hợp: Hội Đồng Quản Trị, Ban Giám Hiệu Toàn Hệ Thống, Đội Văn Nghệ 24 GV Hai Cơ Sở\nNội dung: Kỷ niệm 10 năm thành lập Cơ sở Việt Anh 2 (14/11/2026); biểu diễn tiết mục múa hát 'Đất Phương Nam' do 24 GV (06 GV Hát, 18 GV Múa) cơ sở VA1, VA3 và Mầm non dàn dựng theo bản cập nhật KH 352 ngày 26/10/2026.\nNguồn: KH 352/KH-VA3 Văn nghệ 10 năm VA2 (Cập nhật 26/10) (https://drive.google.com/file/d/1anKNg0iob5HCUzQIf2sbdtJJpDf2_vaO/view?usp=drivesdk)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a8a47359fbd2991bf80a555e3ee1e5e2@vietanhschool.edu.vn
+DTSTAMP:20261026T091000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Hạn Chót Nộp Bản Cam Kết của PHHS về Quản Lý, Giáo Dục Học Sinh Chấp Hành Pháp Luật Gửi Công An P. Phú Lợi (CV 2182/CAP)
+LOCATION:Công An Phường Phú Lợi (Tổ Cảnh Sát PCTP - Số 564/11/22 Đại Lộ Bình Dương)
+DESCRIPTION:Thời gian theo văn bản: Trước ngày 15/11/2026\nChủ trì/Phối hợp: Ban Giám Hiệu, GVCN Toàn Trường, Phụ Huynh Học Sinh\nNội dung: Tập hợp đầy đủ bản cam kết của PHHS về việc phối hợp quản lý, giáo dục con em chấp hành pháp luật, ATGT, phòng chống bạo lực học đường, thuốc lá điện tử và tệ nạn xã hội bàn giao về Công an Phường Phú Lợi trước ngày 15/11/2026.\nNguồn: CV 2182/CAP Công an P. Phú Lợi (https://drive.google.com/file/d/1J2gByVHA-_xpIfXEozBr7bVeF1cDeW_n/view?usp=drivesdk)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3c1fc63310b99697dfb90fcb874764f1@vietanhschool.edu.vn
+DTSTAMP:20261026T091000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Triển Lãm “Bài Học và Sự Trưởng Thành” & Khánh Thành Bức Tường Biết Ơn tại VA3 (KH 339)
+LOCATION:Hội Trường Tòa Nhà EMC-VA3 & Sảnh Chính
+DESCRIPTION:Thời gian theo văn bản: Sáng 16/11/2026 (Thời lượng 90 phút)\nChủ trì/Phối hợp: Ban Giám Hiệu VA3, 09 Nhóm Chuyên Môn Lesson Study, 126 Đại Biểu PHHS và HS\nNội dung: Triển lãm sáng 16/11 tại Hội trường EMC-VA3 (tổng thời lượng 90 phút: 10p tập trung, 50p tham quan 4 quầy theo tuyến, 20p chia sẻ & nộp phiếu, 10p tổng kết); các nhóm bổ sung minh chứng trước 16:00 cùng ngày.\nNguồn: KH 339/KH-VA3 Hoạt động T11 (https://drive.google.com/file/d/1PR4R3omalO_w0WTtssRLhABB6py-VFZV/view?usp=drivesdk)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fe25b7b901ea77c2c4ac8d018c2a646f@vietanhschool.edu.vn
+DTSTAMP:20261026T091000Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20261117T072000
+DTEND;TZID=Asia/Ho_Chi_Minh:20261117T093000
+SUMMARY:Triển Lãm “Bài Học và Sự Trưởng Thành” tại Cơ Sở VA1 (KH 146)
+LOCATION:Hội Trường, Phòng STEM, Phòng Mỹ Thuật & Sân Cỏ VA1
+DESCRIPTION:Thời gian theo văn bản: 17/11/2026 07:20 -> 17/11/2026 09:30\nChủ trì/Phối hợp: Ban Giám Hiệu VA1, 08 Nhóm Chuyên Môn Tiểu Học VA1, 72 Đại Biểu PHHS và HS\nNội dung: Tổ chức 08 quầy trưng bày giải pháp bài học cải tiến từ 07:20 - 09:30 (07:30-08:00 đón khách; 08:00-08:10 tập trung tại Hội trường; 08:10-09:00 8 đội PHHS & HS chạy trạm 4 quầy; 09:00-09:20 chia sẻ cảm nhận & nộp phiếu; 09:20-09:30 tổng kết).\nNguồn: KH 146/KH-VA Hoạt động T11 (https://drive.google.com/file/d/1fDyfV8-ZFYWfXhJfrdFONWrYcnVJ6yXA/view?usp=drivesdk)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:76e149e50c022be991aa282ed4e419f6@vietanhschool.edu.vn
+DTSTAMP:20261026T091000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Hạn Chót Hoàn Thành Chương Trình Bổ Sung Môn GDQP-AN & Công Nghệ Khối 12 (KH 212)
+LOCATION:Văn Phòng Học Vụ / Tòa Nhà EMC-VA3
+DESCRIPTION:Thời gian theo văn bản: Trước ngày 17/11/2026\nChủ trì/Phối hợp: Thầy Hồ Văn Trung, Cô Nguyễn Thị Phương Lam, GVCN Khối 12\nNội dung: Học sinh Khối 12 chuyển tổ hợp và bổ sung môn Giáo dục Quốc phòng - An ninh, môn Công nghệ phải hoàn thành toàn bộ chương trình và điểm số trước ngày 17/11/2026 theo Mục III Kế hoạch 212/KH-VA3.\nNguồn: KH 212/KH-VA3 Bổ sung Tổ hợp (https://drive.google.com/file/d/1BeJfPi2-nwhxDHAPlH8GTzf0Qb3POPZA/view?usp=sharing)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6163708b29422dfc3db43f62547b8f7c@vietanhschool.edu.vn
+DTSTAMP:20261026T091000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Gala Tri Ân Cán Bộ - Giáo Viên - Nhân Viên Việt Anh: “Những Người Thắp Sáng” (KH 339 & KH 146)
+LOCATION:Hội Trường Đa Năng / Địa Điểm theo Kế Hoạch Gala
+DESCRIPTION:Thời gian theo văn bản: Tối 19/11/2026\nChủ trì/Phối hợp: Ban Tổ Chức Gala, Toàn Thể CB-GV-NV Toàn Trường (VA1, VA3, EMC)\nNội dung: Chương trình Gala thường niên chào mừng Ngày Nhà giáo Việt Nam 20/11 với thông điệp 'Trân trọng từng đóng góp, tiếp nối những điều tốt đẹp'; biểu diễn nghệ thuật của 07 nhóm CB-GV-NV hai cơ sở (Giờ, địa điểm và thời lượng cụ thể theo kế hoạch Gala được duyệt).\nNguồn: KH 339 & KH 146 (Mục V) (https://drive.google.com/file/d/1PR4R3omalO_w0WTtssRLhABB6py-VFZV/view?usp=drivesdk)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2cec6960ed0ad6f5bd12054d143075af@vietanhschool.edu.vn
+DTSTAMP:20261026T091000Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20261120T072000
+DTEND;TZID=Asia/Ho_Chi_Minh:20261120T091500
+SUMMARY:Chương Trình Lễ Tri Ân & Ghi Nhận Ngày Nhà Giáo Việt Nam 20/11 (KH 339, KH 146 & KH 362–365)
+LOCATION:Sân Trường & Hội Trường Cơ Sở VA1 & Cơ Sở VA3
+DESCRIPTION:Thời gian theo văn bản: Sáng 20/11/2026 (VA1: 07:20 - 08:35 | VA3: 105 phút)\nChủ trì/Phối hợp: Ban Giám Hiệu Hai Cơ Sở, Ban Đại Diện CMHS, Toàn Thể GVNV & Học Sinh\nNội dung: Tại VA1 (Phụ lục 2 KH 146): 06:30-07:20 ăn sáng; 07:20-07:30 tập trung; 07:30-07:50 đón thầy cô & cài hoa; 07:50-08:35 chào cờ, văn nghệ 'Quà tặng từ trái tim', ghi nhận nhóm Lesson Study, hát kết. Tại VA3 (Mục IV KH 339 & KH 362-365): Dự kiến 105 phút buổi sáng (15p đón thầy cô, 10p chào cờ, 45p câu chuyện âm nhạc & công diễn 04 tiết mục K6-12, 15p vinh danh Lesson Study, 20p hát kết & về lớp).\nNguồn: KH 339, 146 & KH 362–365 (https://drive.google.com/file/d/1fDyfV8-ZFYWfXhJfrdFONWrYcnVJ6yXA/view?usp=drivesdk)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:96668b0b94cd8bc16e7aa608ddd598ee@vietanhschool.edu.vn
+DTSTAMP:20261026T091000Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20261125T142000
+DTEND;TZID=Asia/Ho_Chi_Minh:20261125T160000
+SUMMARY:Tiệc Trà Văn Học Tiếng Anh: “Alice In Wonderland: Tea, Tales & Curiosity” (Grade 9D1EMC Ontario) (KH 238)
+LOCATION:Phòng Bếp Thực Nghiệm (Experimental Kitchen) - Tòa Nhà EMC-VA3
+DESCRIPTION:Thời gian theo văn bản: 25/11/2026 14:20 -> 25/11/2026 16:00\nChủ trì/Phối hợp: Bộ Phận Quốc Tế Ontario IEP, GV English Literature & Học Sinh Lớp 9D1EMC\nNội dung: Hoạt động trải nghiệm văn học tiếng Anh nhập vai Mad Hatter's Tea Party từ 14:20 - 16:00 (Tiết 7 & Tiết 8) qua 4 phần: Welcome to Wonderland, Wonderland Challenges (4 trạm: Character Detective, Symbol Café, Quote Discussion, Wonderland Riddles), Phiên tòa Hoàng gia của Queen of Hearts (Royal Trial) và Phản tư văn học.\nNguồn: KH 238/KH-VA3 Tea Party 9D1EMC (https://drive.google.com/file/d/1tGKDJnwQxcvAf5ikveCOyD8RvTQGyPnI/view?usp=drivesdk)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b2ff1a48e9d5e5bd40db0fa2edb417e9@vietanhschool.edu.vn
+DTSTAMP:20261026T091000Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20261202T090500
+DTEND;TZID=Asia/Ho_Chi_Minh:20261203T160000
+SUMMARY:Trải Nghiệm Bếp Thực Nghiệm Môn Health Education: “Healthy Bites” (Grade 6–8 Ontario) (KH 356)
+LOCATION:Phòng Bếp Thực Nghiệm - Tòa Nhà EMC-VA3
+DESCRIPTION:Thời gian theo văn bản: 02/12/2026 09:05 -> 03/12/2026 16:00\nChủ trì/Phối hợp: Ms. Donna Fe N. Cabalfin, GV Health Education, Học Sinh Grade 6-8\nNội dung: Học sinh Grade 6-8 thực hành nấu ăn dinh dưỡng theo khung giờ chính thức tại KH 356: Grade 6 (06 HS) chế biến món ăn không dùng nhiệt (Thứ Tư 02/12, 09:05 - 10:55); Grade 8 (21 HS) chế biến món ăn cải tiến dinh dưỡng và quay video quảng bá (Thứ Năm 03/12, 09:05 - 10:55); Grade 7 (07 HS) nấu và nướng bánh lành mạnh (Thứ Năm 03/12, 14:20 - 16:00).\nNguồn: KH 356/KH-VA3 Bếp thực nghiệm Gr 6-8 (https://drive.google.com/file/d/1NezQugR8IqkphTI6-TfHEDUUqoV-ussz/view?usp=drivesdk)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ce637fa427a5ce1d5e975270070a913f@vietanhschool.edu.vn
+DTSTAMP:20261026T091000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Tổng Duyệt Kỹ Thuật Sự Kiện Thơ Ca & Kịch Nghệ Tiếng Anh: “Poetry Comes Alive!” (Grade 7B1EMC & 8C1EMC) (KH 366)
+LOCATION:Phòng Chiếu Phim (Film Room) - Tòa Nhà Đa Năng VA3
+DESCRIPTION:Thời gian theo văn bản: Trong ngày 07/12/2026\nChủ trì/Phối hợp: Ms. Regina Galeeva, Bộ Phận IT, Điều Phối Quốc Tế & 27 Học Sinh Gr 7-8 Ontario\nNội dung: Chạy thử kỹ thuật toàn bộ chương trình biểu diễn thơ ca tiếng Anh (Technical rehearsal and final adjustments): khớp slide trình chiếu, âm thanh, ánh sáng, trang phục đạo cụ và đội hình hoạt cảnh tĩnh (Living Pictures) trước ngày công diễn.\nNguồn: KH 366/KH-VA3 Poetry Comes Alive (https://drive.google.com/file/d/1dZ99EvfTZlVqGnFsqD-6MxAVCjSLqe0g/view?usp=drivesdk)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d72620772045056b2df89dbfc61dd693@vietanhschool.edu.vn
+DTSTAMP:20261026T091000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Tổng Duyệt Kỹ Thuật & Phục Trang Dự Án Sân Khấu Kịch Tiếng Anh: “The Tragedy of Macbeth: From Page to Stage” (KH 237)
+LOCATION:Phòng Chiếu Phim (Film Room) - Tòa Nhà Đa Năng VA3
+DESCRIPTION:Thời gian theo văn bản: Trong ngày 11/12/2026\nChủ trì/Phối hợp: Ms. Val (Valeriia Zvigintseva), Mr. Chris, BP. IT & 31 Học Sinh Gr 10A1EMC, 11B1EMC, 12C1EMC\nNội dung: Tổng duyệt toàn bộ trang phục hóa trang, đạo cụ sân khấu, âm thanh, ánh sáng, micro và chạy trọn vẹn vở kịch cổ điển Macbeth (Stage 4: Technical & Dress Rehearsal) chuẩn bị cho buổi công diễn chính thức ngày 18/12/2026.\nNguồn: KH 237/KH-VA3 Kịch Macbeth Ontario (https://drive.google.com/file/d/1ybynrHo78-U_gW3UafntyN_9A4EmZMTN/view?usp=drivesdk)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1873439d9017a85cfe454091dbf63238@vietanhschool.edu.vn
+DTSTAMP:20261026T091000Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Sự Kiện Biểu Diễn Thơ Ca & Kịch Nghệ Tiếng Anh: “Poetry Comes Alive!” (Grade 7B1EMC & 8C1EMC Ontario) (KH 366)
+LOCATION:Phòng Chiếu Phim (Film Room) - Tòa Nhà Đa Năng VA3
+DESCRIPTION:Thời gian theo văn bản: Chiều 14/12/2026 (Tiết 6 & Tiết 7)\nChủ trì/Phối hợp: Ms. Regina Galeeva (Chủ Trì), BGK (Ms. Dahlia, Mr. Zachary, Ms. Regina), 27 HS Gr 7B1EMC & 8C1EMC\nNội dung: Sự kiện trình diễn thơ ca tiếng Anh kết hợp nghệ thuật kể chuyện thị giác và hoạt cảnh sân khấu tĩnh (Living Pictures) diễn ra trong Tiết 6 & Tiết 7 chiều Thứ Hai 14/12/2026; trao 08 hạng mục giải thưởng (Best Poetry Reciter, Best Expressive Performance, Best Living Pictures, Audience Choice Award...).\nNguồn: KH 366/KH-VA3 Poetry Comes Alive (https://drive.google.com/file/d/1dZ99EvfTZlVqGnFsqD-6MxAVCjSLqe0g/view?usp=drivesdk)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:94cbbd0fda3c211a7e51eca63e8759c8@vietanhschool.edu.vn
+DTSTAMP:20261026T091000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Vòng Chung Kết Hùng Biện Tiếng Anh TED-Style: “My Idea, My Voice” (Grade 6A1EMC) (KH 351)
+LOCATION:Phòng Chiếu Phim (Film Room) - Tòa Nhà Đa Năng VA3
+DESCRIPTION:Thời gian theo văn bản: Chiều 16/12/2026 (Tiết 6 & Tiết 7)\nChủ trì/Phối hợp: Ms. Mukaddas (Đề Xuất), BGK (Ms. Mukaddas, Ms. Dahlia, Mr. Bahi), 06 Học Sinh Grade 6A1EMC\nNội dung: Vòng chung kết chương trình diễn thuyết tiếng Anh phong cách TED Talks dành cho học sinh lớp 6A1EMC diễn ra trong Tiết 6 & Tiết 7 chiều Thứ Tư 16/12/2026 qua 3 phần thi: Part 1 (Object, One Story), Part 2 (My Topic, My Voice), Part 3 (Think & Speak ứng biến câu hỏi của BGK).\nNguồn: KH 351/KH-VA3 My Idea My Voice (https://drive.google.com/file/d/1mSEbDvVc0Vw4J7PoXHaEs9-c5CyscKBZ/view?usp=drivesdk)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0eba9be95af257eaaab88be679faa6ed@vietanhschool.edu.vn
+DTSTAMP:20261026T091000Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20261218T072000
+DTEND;TZID=Asia/Ho_Chi_Minh:20261218T105000
+SUMMARY:Công Diễn Sân Khấu Kịch Văn Học Tiếng Anh: “The Tragedy of Macbeth: From Page to Stage” (Grade 10–12 Ontario) (KH 237)
+LOCATION:Phòng Chiếu Phim (Film Room) - Tòa Nhà Đa Năng VA3
+DESCRIPTION:Thời gian theo văn bản: 18/12/2026 07:20 -> 18/12/2026 10:50\nChủ trì/Phối hợp: Ms. Val, Mr. Kane, Ms. Regina, Mr. Shahab, Mr. Chris, BP. Điều Phối Quốc Tế & 31 HS Gr 10A1EMC, 11B1EMC, 12C1EMC\nNội dung: Buổi công diễn chính thức dự án sân khấu hóa bi kịch cổ điển 'Macbeth' của đại thi hào William Shakespeare (có PHHS và toàn bộ HS hệ Ontario tham dự): 07:20-08:05 chuẩn bị sân khấu & hóa trang; 08:05-08:20 đón khách & ổn định chỗ ngồi; 08:20-10:20 khai mạc & công diễn vở kịch; 10:20-10:50 chụp ảnh lưu niệm & bế mạc.\nNguồn: KH 237/KH-VA3 Kịch Macbeth Ontario (https://drive.google.com/file/d/1ybynrHo78-U_gW3UafntyN_9A4EmZMTN/view?usp=drivesdk)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1a0fe830f2fa2bb5b745b0bd6ec057b9@vietanhschool.edu.vn
+DTSTAMP:20261026T091000Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:Hạn Chót Kết Thúc Học Kỳ I (theo Khung Thời Gian Năm Học Bộ GD&ĐT) (QĐ 2308)
 LOCATION:Toàn Trường (VA1, VA3, EMC)
-DESCRIPTION:Chủ trì/Phối hợp: Ban Giám Hiệu, Phòng Học Vụ\nNội dung: Toàn thể Giáo viên và Học sinh các cấp\nNguồn: QĐ 2308/QĐ-BGDĐT Khung năm học (https://drive.google.com/file/d/1mzB1qR8y93Y2Gkkk-QfnOVSoZfnwD6D6/view?usp=drivesdk)
+DESCRIPTION:Thời gian theo văn bản: Trước ngày 18/01/2027\nChủ trì/Phối hợp: Ban Giám Hiệu, Phòng Học Vụ\nNội dung: Hoàn thành chương trình và kết thúc Học kỳ I năm học 2026-2027 trước ngày 18/01/2027 theo Quyết định 2308/QĐ-BGDĐT của Bộ Giáo dục và Đào tạo.\nNguồn: QĐ 2308/QĐ-BGDĐT Khung năm học (https://drive.google.com/file/d/1mzB1qR8y93Y2Gkkk-QfnOVSoZfnwD6D6/view?usp=drivesdk)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b1725ad633eb9540fbc5aeac18ab4ae5@vietanhschool.edu.vn
+DTSTAMP:20261026T091000Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:Tổng Duyệt Cuối Cùng Chương Trình Showcase Chung Dự Án “Én Vàng Việt Anh” (VA1 & VA3) (TB 38 & TB 58)
+LOCATION:Hội Trường Tòa Nhà Đa Năng VA3
+DESCRIPTION:Thời gian theo văn bản: Trong ngày 20/01/2027\nChủ trì/Phối hợp: Tổng Hiệu Trưởng Đinh Thị Ngọc, Thầy Vũ Minh Khang, Cô Thế Đoan, Thầy Giang, Bộ Phận IT\nNội dung: Chạy tổng thể toàn bộ chương trình Showcase chung hai cơ sở VA1 và VA3 cùng thiết bị, âm thanh, đạo cụ; Tổng Hiệu trưởng trực tiếp tổng duyệt, kết luận và giao chỉnh sửa hoàn thiện trước ngày 21/01/2027.\nNguồn: TB 38/TB-VA & TB 58/TB-VA3 Én Vàng (https://drive.google.com/file/d/1ldMyIeNeA5DLsdgThd0u0sGD4G5pJLH3/view?usp=drivesdk)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:63060c156f03f1a4121ae4a4e3cdcb79@vietanhschool.edu.vn
+DTSTAMP:20261026T091000Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:Chương Trình Trình Diễn Showcase Chung Dự Án “Én Vàng Việt Anh” Năm Học 2026 - 2027 (VA1 & VA3) (TB 38 & TB 58)
+LOCATION:Hội Trường Tòa Nhà Đa Năng VA3
+DESCRIPTION:Thời gian theo văn bản: Trong ngày 22/01/2027\nChủ trì/Phối hợp: Tổng Hiệu Trưởng Đinh Thị Ngọc, Nhà Báo Anh Đức (Cố Vấn), Cô Thế Đoan, Thầy Khang, Ban Dự Án ECH\nNội dung: Học sinh hai cơ sở VA1 và VA3 trình diễn các sản phẩm dẫn chương trình, kể chuyện, phỏng vấn và điều phối sân khấu tại Hội trường Đa năng VA3, có Phụ huynh học sinh tham dự; ghi nhận tiến bộ của từng em và đề xuất Đội MC học sinh trước 29/01/2027.\nNguồn: TB 38/TB-VA & TB 58/TB-VA3 Én Vàng (https://drive.google.com/file/d/1ldMyIeNeA5DLsdgThd0u0sGD4G5pJLH3/view?usp=drivesdk)
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
